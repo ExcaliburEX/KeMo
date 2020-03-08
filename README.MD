@@ -1,4 +1,4 @@
-♎️
+# ♎️
 
 # <font face="Comic Sans MS" color=#666666>所以你也来看我了?🧐</font>
 <br><br>
@@ -19,7 +19,7 @@
 [![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) 
 
 ## <font face="Times New Roman" color=#0044BB >20.3.4~3.8</font>
-1️⃣ <font face="Noto Serif SC">**搭建了go的环境包括[`VScode` 以及 `Goland`]，😫 完成了基本语法的学习，亦即：**
+<font face="Noto Serif SC">1️⃣ **搭建了go的环境包括[`VScode` 以及 `Goland`]，😫 完成了基本语法的学习，亦即：**
 - **「数据类型」**
 - **「循环选择结构」**
 - **「函数」**
@@ -27,7 +27,7 @@
 
 
 **2️⃣ get😆到了一个科研神器`Grammarly`以及`Linggle`。<br>
-3️⃣ `Aixcoder` 北大出品，必属精品。😈利用DL技术，以历时编码模式为输入，进行智能补全提示。<br>
+3️⃣ `Aixcoder` 北大出品，必属精品。😈利用DL技术，以历史编码模式为输入，进行智能补全提示。<br>
 4️⃣ 比较了好几款文献管理工具， 包括 `NoteExpress`(适合中文)，以及`Mendeley`, `Zotero`。三款软件常用的功能都具备，如文献标签整理，快速导入参考文献，自带阅读器，浏览器插件等等，都可用于日常阅读工作。😎<br>
 5️⃣ 通过落拓的系列视频[是落拓啊-区块链](https://www.bilibili.com/video/av88477333)，复习了`POW`工作量证明机制，哈希碰撞，并且快速实现了一个小型的区块系统。<br>
 6️⃣「等」,暂时想不来了，哪天想起来再更。🙋‍♂️</font>**
