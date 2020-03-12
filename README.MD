@@ -31,9 +31,8 @@
 4️⃣ 比较了好几款文献管理工具， 包括 `NoteExpress`(适合中文)，以及`Mendeley`, `Zotero`。三款软件常用的功能都具备，如文献标签整理，快速导入参考文献，自带阅读器，浏览器插件等等，都可用于日常阅读工作。😎<br>
 5️⃣ 通过落拓的系列视频[是落拓啊-区块链](https://www.bilibili.com/video/av88477333)，复习了`POW`工作量证明机制，哈希碰撞，并且快速实现了一个小型的区块系统。<br>
 6️⃣「等」,暂时想不来了，哪天想起来再更。🙋‍♂️</font>
-![3.8](https://github.com/ExcaliburEX/KeMo/blob/master/微信图片_20200312203426.jpg)
 
-
+<img src = "https://github.com/ExcaliburEX/KeMo/blob/master/微信图片_20200312203426.jpg" height = "350"/>
 
 ## <font face="Times New Roman" color=#0044BB >20.3.9~3.12</font>
 <font face="Noto Serif SC">1️⃣ !!!∑(ﾟДﾟノ)ノ参与了一个Github上近一周Trending排名第一的项目(**[fucking-algorithm](https://github.com/labuladong/fucking-algorithm)**)的翻译工作。
@@ -47,4 +46,5 @@
 - 主要涉及了文件数据的处理工作。在进行高性能分布式计算时，一个最基本的工作就是将数据集成化，有序化，准确地输入到工作流中。
 - 在分割文件时会出现很多种情况：如相应的文件不存在，相应的sheet不存在或者无法打开；相应的id出现了重复情况，无法判断何者为原始数据；在sheetn(n>=2)中出现的id不是id的子集；抑或是其余等等情况。所以在处理数据时需要提前考虑到大部分的失败情况，对每一种情况都做相应的措施然后继续推进任务。
 </font>
-![3.12](https://github.com/ExcaliburEX/KeMo/blob/master/微信图片_20200312203415.jpg)
+
+<img src = "https://github.com/ExcaliburEX/KeMo/blob/master/微信图片_20200312203415.jpg" height = "350"/>
