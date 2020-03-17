@@ -53,7 +53,7 @@
 <font face="Noto Serif SC">1️⃣ 把毕设以及代码以及毕设期间代写毕设的代码上传到[Graduation-Design-and-MATLAB-Code](https://github.com/ExcaliburEX/Graduation-Design-and-MATLAB-Code-)
 </font>
 ## <font face="Times New Roman" color=#0044BB >20.3.17</font>
-<font face="Noto Serif SC">1️⃣ 开始了[`go`]的学习(https://github.com/ExcaliburEX/Go-Learning#-20317)：今日学习的思维导图：
+<font face="Noto Serif SC">1️⃣ 开始了[`go`](https://github.com/ExcaliburEX/Go-Learning#-20317)的学习：今日学习的思维导图：
 
 ![图](https://github.com/ExcaliburEX/KeMo/blob/master/Go.png)
 <br>
