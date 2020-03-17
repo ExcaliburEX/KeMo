@@ -51,3 +51,27 @@
 
 ## <font face="Times New Roman" color=#0044BB >20.3.13~3.16</font>
 <font face="Noto Serif SC">1️⃣ 把毕设以及代码以及毕设期间代写毕设的代码上传到[Graduation-Design-and-MATLAB-Code](https://github.com/ExcaliburEX/Graduation-Design-and-MATLAB-Code-)
+</font>
+## <font face="Times New Roman" color=#0044BB >20.3.17</font>
+<font face="Noto Serif SC">1️⃣ 开始了[`go`]的学习(https://github.com/ExcaliburEX/Go-Learning#-20317)：今日学习的思维导图：
+
+![图](https://github.com/ExcaliburEX/KeMo/blob/master/Go.png)
+<br>
+具体如下：
+- 基本语法 
+  - 变量声明
+  - 变量的初始化
+  - 多变量同时赋值
+  - 匿名变量：下划线“_”
+  - 变量作用域(没什么好讲的，跟`python`类似)
+  - 浮点类型
+  - 字符串（一个不可改变的字节序列）
+  - 指针
+  - 常量（`const`）
+  - `type`关键字（类型别名）
+  - 关键字
+  - 运算优先级
+
+**具体内容移动实时更新的**[Go-Learning](https://github.com/ExcaliburEX/Go-Learning#-20317)
+</font>
+
