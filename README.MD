@@ -52,8 +52,9 @@
 ## <font face="Times New Roman" color=#0044BB >20.3.13~3.16</font>
 <font face="Noto Serif SC">1️⃣ 把毕设以及代码以及毕设期间代写毕设的代码上传到[Graduation-Design-and-MATLAB-Code](https://github.com/ExcaliburEX/Graduation-Design-and-MATLAB-Code-)
 </font>
+
 ## <font face="Times New Roman" color=#0044BB >20.3.17</font>
-<font face="Noto Serif SC">1️⃣ 开始了[`go`](https://github.com/ExcaliburEX/Go-Learning#-20317)的学习：今日学习的思维导图：
+<font face="Noto Serif SC">1️⃣ 开始了[`go`](https://github.com/ExcaliburEX/Go-Learning#-20317)的学习<br>今日学习的思维导图：
 
 ![图](https://github.com/ExcaliburEX/KeMo/blob/master/Go.png)
 <br>
@@ -72,6 +73,24 @@
   - 关键字
   - 运算优先级
 
-**具体内容移动实时更新的**[Go-Learning](https://github.com/ExcaliburEX/Go-Learning#-20317)
+**具体内容移步到实时更新的**[Go-Learning-20200317](https://github.com/ExcaliburEX/Go-Learning#-20317)
 </font>
 
+
+## <font face="Times New Roman" color=#0044BB >20.3.18</font>
+<font face="Noto Serif SC">1️⃣ 继续[`go`](https://github.com/ExcaliburEX/Go-Learning#-20317)的学习<br>
+今日学习的思维导图：
+
+![图](https://github.com/ExcaliburEX/Go-Learning/blob/master/Go_2020.3.18.png)
+
+具体内容如下：
+- 容器
+  - 数组
+  - 多维数组
+  - 切片
+  - map
+  - 列表list
+  - nil
+
+**具体内容移步到实时更新的**[Go-Learning-20200318](https://github.com/ExcaliburEX/Go-Learning#-20318)
+</font>  
