@@ -19,29 +19,29 @@
 [![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) 
 
 ## <font face="Times New Roman" color=#0044BB >20.3.4~3.8</font>
-<font face="Noto Serif SC">1️⃣ 搭建了go的环境包括[`VScode` 以及 `Goland`]，😫 完成了基本语法的学习，亦即：
+<font face="Noto Serif SC">1️⃣  搭建了go的环境包括[`VScode` 以及 `Goland`]，😫 完成了基本语法的学习，亦即：
 - **「数据类型」**
 - **「循环选择结构」**
 - **「函数」**
 - **「等」**
 
 
-2️⃣ get😆到了一个科研神器`Grammarly`以及`Linggle`。<br>
-3️⃣ `Aixcoder` 北大出品，必属精品。😈利用DL技术，以历史编码模式为输入，进行智能补全提示。<br>
-4️⃣ 比较了好几款文献管理工具， 包括 `NoteExpress`(适合中文)，以及`Mendeley`, `Zotero`。三款软件常用的功能都具备，如文献标签整理，快速导入参考文献，自带阅读器，浏览器插件等等，都可用于日常阅读工作。😎<br>
-5️⃣ 通过落拓的系列视频[是落拓啊-区块链](https://www.bilibili.com/video/av88477333)，复习了`POW`工作量证明机制，哈希碰撞，并且快速实现了一个小型的区块系统。<br>
-6️⃣「等」,暂时想不来了，哪天想起来再更。🙋‍♂️</font>
+2️⃣  get😆到了一个科研神器`Grammarly`以及`Linggle`。<br>
+3️⃣  `Aixcoder` 北大出品，必属精品。😈利用DL技术，以历史编码模式为输入，进行智能补全提示。<br>
+4️⃣  比较了好几款文献管理工具， 包括 `NoteExpress`(适合中文)，以及`Mendeley`, `Zotero`。三款软件常用的功能都具备，如文献标签整理，快速导入参考文献，自带阅读器，浏览器插件等等，都可用于日常阅读工作。😎<br>
+5️⃣  通过落拓的系列视频[是落拓啊-区块链](https://www.bilibili.com/video/av88477333)，复习了`POW`工作量证明机制，哈希碰撞，并且快速实现了一个小型的区块系统。<br>
+6️⃣ 「等」,暂时想不来了，哪天想起来再更。🙋‍♂️</font>
 
 <img src = "https://github.com/ExcaliburEX/KeMo/blob/master/微信图片_20200312203426.jpg" height = "350"/>
 
 ## <font face="Times New Roman" color=#0044BB >20.3.9~3.12</font>
-<font face="Noto Serif SC">1️⃣ !!!∑(ﾟДﾟノ)ノ参与了一个Github上近一周Trending排名第一的项目(**[fucking-algorithm](https://github.com/labuladong/fucking-algorithm)**)的翻译工作。
+<font face="Noto Serif SC">1️⃣  !!!∑(ﾟДﾟノ)ノ参与了一个Github上近一周Trending排名第一的项目(**[fucking-algorithm](https://github.com/labuladong/fucking-algorithm)**)的翻译工作。
 
 该项目主要是将Leetcode上的算法进行结构化，框架化的解读，项目作者将自己一年刷题的经验与心得整合为一份gitbook并持续更新，用动图，编码，通俗的语言对各种经典的动态规划，数据结构，算法思维，并引经据典，旁征博引《算法4》等经典算法著作。
 
 我参与了项目的KMP算法的翻译工作，KMP算法是字符串匹配算法的高效算法，由三位计算机科学界的大佬提出，所以全名为Knuth-Morris-Pratt 算法，它与传统的暴力匹配不同的是，它利用记忆数组存储匹配记忆，以达到快速匹配的目的。目前我已经将我的翻译工作commit，并对该项目进行了pull request并且已经merged，成为了一名Contributor。😊 
 
-2️⃣ 写了一下午的HPC作业，在这里[HPC_Homework](https://github.com/ExcaliburEX/KeMo/blob/master/HPC_Homework.py)。
+2️⃣  写了一下午的HPC作业，在这里[HPC_Homework](https://github.com/ExcaliburEX/KeMo/blob/master/HPC_Homework.py)。
 
 - 主要涉及了文件数据的处理工作。在进行高性能分布式计算时，一个最基本的工作就是将数据集成化，有序化，准确地输入到工作流中。
 - 在分割文件时会出现很多种情况：如相应的文件不存在，相应的sheet不存在或者无法打开；相应的id出现了重复情况，无法判断何者为原始数据；在sheetn(n>=2)中出现的id不是id的子集；抑或是其余等等情况。所以在处理数据时需要提前考虑到大部分的失败情况，对每一种情况都做相应的措施然后继续推进任务。
@@ -50,11 +50,11 @@
 <img src = "https://github.com/ExcaliburEX/KeMo/blob/master/微信图片_20200312203415.jpg" height = "350"/>
 
 ## <font face="Times New Roman" color=#0044BB >20.3.13~3.16</font>
-<font face="Noto Serif SC">1️⃣ 把毕设以及代码以及毕设期间代写毕设的代码上传到[Graduation-Design-and-MATLAB-Code](https://github.com/ExcaliburEX/Graduation-Design-and-MATLAB-Code-)
+<font face="Noto Serif SC">1️⃣  把毕设以及代码以及毕设期间代写毕设的代码上传到[Graduation-Design-and-MATLAB-Code](https://github.com/ExcaliburEX/Graduation-Design-and-MATLAB-Code-)
 </font>
 
 ## <font face="Times New Roman" color=#0044BB >20.3.17</font>
-<font face="Noto Serif SC">1️⃣ 开始了[`go`](https://github.com/ExcaliburEX/Go-Learning#-20317)的学习<br>今日学习的思维导图：
+<font face="Noto Serif SC">1️⃣  开始了[`go`](https://github.com/ExcaliburEX/Go-Learning#-20317)的学习<br>今日学习的思维导图：
 
 ![图](https://github.com/ExcaliburEX/KeMo/blob/master/Go.png)
 <br>
@@ -78,7 +78,7 @@
 
 
 ## <font face="Times New Roman" color=#0044BB >20.3.18</font>
-<font face="Noto Serif SC">1️⃣ 继续[`go`](https://github.com/ExcaliburEX/Go-Learning#-20317)的学习<br>
+<font face="Noto Serif SC">1️⃣  继续[`go`](https://github.com/ExcaliburEX/Go-Learning#-20317)的学习<br>
 今日学习的思维导图：
 
 ![图](https://github.com/ExcaliburEX/Go-Learning/blob/master/Go_2020.3.18.png)
@@ -98,17 +98,17 @@
 ## <font face="Times New Roman" color=#0044BB >20.3.19~20</font>
 > 这两天没顾得上学`go`，总觉得有些事没思考清楚。
 
-<font face="Noto Serif SC">1️⃣ 忧心论文，所以看了知网研学的[哈工大专场-论文阅读写作与学术规范](https://www.bilibili.com/video/av96719855?t=53)，要算收获的话是以前没注意到的知网的分析分类功能，主要问题还是怎样找自己的研究方向吧。
+<font face="Noto Serif SC">1️⃣  忧心论文，所以看了知网研学的[哈工大专场-论文阅读写作与学术规范](https://www.bilibili.com/video/av96719855?t=53)，要算收获的话是以前没注意到的知网的分析分类功能，主要问题还是怎样找自己的研究方向吧。
 
-2️⃣ 有点想拍点vlog记录生活，为每一天赋予意义。所以看了一下[小苏的vlog相机](https://www.bilibili.com/video/av97724226)
+2️⃣  有点想拍点vlog记录生活，为每一天赋予意义。所以看了一下[小苏的vlog相机](https://www.bilibili.com/video/av97724226)
   - 大疆Osmo pocket
-  - 能G7XMark2
+  - G7XMark2
   - GoPro7
   - Mac ✈️
-嗯，买不起，刚不动。
+<br>嗯，买不起，刚不动。
 
-3️⃣ 关于文献管理工具，目前想用NoteExpress，知网研学以及Mendeley的组合。
+3️⃣  关于文献管理工具，目前想用NoteExpress，知网研学以及Mendeley的组合。
 
-4️⃣ 参与了datawhale与天池举办的一个天池[新手入门赛](https://github.com/datawhalechina/team-learning)，组了个小队，希望这半个月能在这个完整的流程中有所收获。
+4️⃣  参与了datawhale与天池举办的一个天池[新手入门赛](https://github.com/datawhalechina/team-learning)，组了个小队，希望这半个月能在这个完整的流程中有所收获。
 
 
