@@ -94,3 +94,21 @@
 
 **具体内容移步到实时更新的**[Go-Learning-20200318](https://github.com/ExcaliburEX/Go-Learning#-20318)
 </font>  
+
+## <font face="Times New Roman" color=#0044BB >20.3.19~20</font>
+> 这两天没顾得上学`go`，总觉得有些事没思考清楚。
+
+<font face="Noto Serif SC">1️⃣ 忧心论文，所以看了知网研学的[哈工大专场-论文阅读写作与学术规范](https://www.bilibili.com/video/av96719855?t=53)，要算收获的话是以前没注意到的知网的分析分类功能，主要问题还是怎样找自己的研究方向吧。
+
+2️⃣ 有点想拍点vlog记录生活，为每一天赋予意义。所以看了一下[小苏的vlog相机](https://www.bilibili.com/video/av97724226)
+  - 大疆Osmo pocket
+  - 能G7XMark2
+  - GoPro7
+  - Mac ✈️
+嗯，买不起，刚不动。
+
+3️⃣ 关于文献管理工具，目前想用NoteExpress，知网研学以及Mendeley的组合。
+
+4️⃣ 参与了datawhale与天池举办的一个天池[新手入门赛](https://github.com/datawhalechina/team-learning)，组了个小队，希望这半个月能在这个完整的流程中有所收获。
+
+
