@@ -111,4 +111,14 @@
 
 4️⃣  参与了datawhale与天池举办的一个天池[新手入门赛](https://github.com/datawhalechina/team-learning)，组了个小队，希望这半个月能在这个完整的流程中有所收获。
 
+## <font face="Times New Roman" color=#0044BB >20.3.21</font>
 
+<font face="Noto Serif SC">1️⃣  花了一天时间完成了比赛项目的数据分析工作，写了blog分别在[kemo](https://kemo.xyz/%E5%A4%A9%E6%B1%A0_%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B_Task1-2_%E8%B5%9B%E9%A2%98%E7%90%86%E8%A7%A3%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.html)以及[csdn](https://blog.csdn.net/ExcaliburUlimited/article/details/105021630)。
+
+2️⃣  工作总结
+- [x] [KeMo](https://github.com/ExcaliburEX/KeMo#2031920)项目的更新，加上明日便签计划 ❎1️⃣
+- [x] 天池比赛的研究，数据分析 ❎1️⃣
+
+3️⃣  明日计划
+
+<img src = "https://i.loli.net/2020/03/22/6nlNCr3wTkhVHKp.png" height = "450"/>
