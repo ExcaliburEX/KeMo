@@ -9,13 +9,13 @@
 
 # <font face="Comic Sans MS" color=#87CEFA>This is the <font face="Computer Modern" color=#FF0000>Recording File </font>of my life since <font face="Comic Sans MS" color=#77FF00>1969</font>.😗😢</font>
 
+[![HitCount](http://hits.dwyl.com/ExcaliburEX/KeMo.svg)](http://hits.dwyl.com/ExcaliburEX/KeMo)
 
 [![GitHub Issues](https://img.shields.io/github/issues/ExcaliburEX/KeMo)](https://github.com/ExcaliburEX/KeMo/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ycraaron/LuotuoCoin.svg)](https://github.com/ycraaron/LuotuoCoin/pulls)
 ![forks](https://img.shields.io/github/forks/ExcaliburEX/KeMo)
 ![stars](	https://img.shields.io/github/stars/ExcaliburEX/KeMo)
 ![repo size](https://img.shields.io/github/repo-size/ExcaliburEX/KeMo)
-[![HitCount](http://hits.dwyl.com/ExcaliburEX/KeMo.svg)](http://hits.dwyl.com/ExcaliburEX/KeMo)
 ![](https://img.shields.io/badge/Followers-6666-brightgreen)  ![](https://img.shields.io/badge/Rating-10000-orange)  ![](https://img.shields.io/badge/chat-9999-blue)
 ![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202020%20Name&labelColor=informational&color=033450) 
 [![Follow us on AngelList](https://img.shields.io/static/v1.svg?label=Follow%20us&message=😇&color=black&logo=angellist&logoColor=white&labelColor=black)](https://angel.co/company/thumbtack) 
