@@ -29,17 +29,18 @@
 ## <font face="Times New Roman" color=#0044BB >20.3.22~3.29</font>
 > <font face="Noto Serif SC">终于有机会更新了，这后面的5天里，我只做了一件事，就是改造[个人博客网站](https://kemo.xyz)。改到天昏地暗，改到海枯石烂，改到脾气逐渐暴躁，发髻逐渐凌乱，面目逐渐可憎，键盘逐渐散架(砸的)。</font>
 
-<font face="Noto Serif SC">1️⃣  最近重新修缮鼓捣个人博客，首先大刀阔斧地改造背景以及动态效果，移除那些没有用的js动画，当代世界的快节奏，人们已经不再喜欢复杂，充斥颗粒的东西了，内容至上，简约独特，这是永远的核心。其次加入友链，虽然朋友们没有什么博客，但他们有qq空间和B站啊。最重要的是加入具有大师锋范的相册，qq空间的相册太难看，微信又没有相册，B站又不适合，简书，csdn，github都是技术，也不适合，还是这里最安全最炫酷。学习了不少css的知识，最重要的是自己给自己增加了更新的动力与压力吧。——发自于3.25号的打卡</font>
+<font face="Noto Serif SC">1️⃣&emsp;最近重新修缮鼓捣个人博客，首先大刀阔斧地改造背景以及动态效果，移除那些没有用的js动画，当代世界的快节奏，人们已经不再喜欢复杂，充斥颗粒的东西了，内容至上，简约独特，这是永远的核心。其次加入友链，虽然朋友们没有什么博客，但他们有qq空间和B站啊。最重要的是加入具有大师锋范的相册，qq空间的相册太难看，微信又没有相册，B站又不适合，简书，csdn，github都是技术，也不适合，还是这里最安全最炫酷。学习了不少css的知识，最重要的是自己给自己增加了更新的动力与压力吧。——发自于3.25号的打卡</font>
 
-<font face="Noto Serif SC">2️⃣  8天工作总结
+<font face="Noto Serif SC">2️⃣&emsp;8天工作总结
 - [x] 博客修缮完毕
   - 改变了样式，渐变色，动画，背景，评论等外观
   - 加入了[相册](https://kemo.xyz/photos/)，[运动记录](https://kemo.xyz/sports/)，[豆瓣读书](http://kemo.xyz/books/)，[豆瓣电影](http://kemo.xyz/movies/)，[友链](http://kemo.xyz/movies/)等页面
   - 以及各种不知缘由的BUG，以及总结了其中最复杂的一个BUG，发了一篇关于`css`本地预览与部署不同的文章：[柯摩のblog](http://kemo.xyz/%E5%AE%8C%E7%BE%8E%E8%A7%A3%E5%86%B3%EF%BC%9AHexo-Next%E4%B8%BB%E9%A2%98%E6%9C%AC%E5%9C%B0%E5%8F%AF%E9%A2%84%E8%A7%88CSS%EF%BC%8C%E4%BD%86%E9%83%A8%E7%BD%B2%E5%88%B0%E7%BD%91%E7%AB%99CSS%E5%A4%B1%E6%95%88%E9%97%AE%E9%A2%98.html),[CSDN](https://blog.csdn.net/ExcaliburUlimited/article/details/105161761)
 
-- [x] 天池比赛的特征工程做了一半，勉强打卡，还得继续磕
+- [x] 天池比赛的特征工程做了一半，勉强打卡，还得继续磕 ❎2️⃣
+- [x] [KeMo](https://github.com/ExcaliburEX/KeMo#2032129)项目的更新，加上明日便签计划 ❎2️⃣
 
-3️⃣  明日计划
+3️⃣&emsp;明日计划
 
 <img src = "https://i.loli.net/2020/03/22/6nlNCr3wTkhVHKp.png" height = "450"/>
 
