@@ -12,7 +12,7 @@
 [![HitCount](http://hits.dwyl.com/ExcaliburEX/KeMo.svg)](http://hits.dwyl.com/ExcaliburEX/KeMo)
 
 [![GitHub Issues](https://img.shields.io/github/issues/ExcaliburEX/KeMo)](https://github.com/ExcaliburEX/KeMo/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ycraaron/LuotuoCoin.svg)](https://github.com/ycraaron/LuotuoCoin/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ExcaliburEX/KeMo.svg)](https://github.com/ExcaliburEX/KeMo/pulls)
 ![forks](https://img.shields.io/github/forks/ExcaliburEX/KeMo)
 ![stars](	https://img.shields.io/github/stars/ExcaliburEX/KeMo)
 ![repo size](https://img.shields.io/github/repo-size/ExcaliburEX/KeMo)
