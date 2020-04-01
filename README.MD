@@ -26,6 +26,20 @@
 [![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) 
 
 
+## <font face="Times New Roman" color=#0044BB >20.3.30~4.1</font>
+<font face="Noto Serif SC">1️⃣&emsp;天池比赛的第二个任务搞定，写完文章[天池_二手车价格预测_Task3_特征工程](https://editor.csdn.net/md/?articleId=105170015)<br>关于本任务总结的脑图：</font>
+
+![特征工程](https://img-blog.csdnimg.cn/20200402004507865.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0V4Y2FsaWJ1clVsaW1pdGVk,size_16,color_FFFFFF,t_70#pic_center)
+
+<font face="Noto Serif SC">2️⃣&emsp;3天工作总结
+- [x] 天池比赛 ❎3️⃣
+- [x] [Daily-Plan-In-Graduate-Life](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2033041)项目的更新 ❎3️⃣
+</font>
+
+<font face="Noto Serif SC">3️⃣&emsp;明日计划</font>
+
+<img src = "https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200402013850.png" height = "450"/>
+
 ## <font face="Times New Roman" color=#0044BB >20.3.22~3.29</font>
 > <font face="Noto Serif SC">终于有机会更新了，这后面的5天里，我只做了一件事，就是改造[个人博客网站](https://kemo.xyz)。改到天昏地暗，改到海枯石烂，改到脾气逐渐暴躁，发髻逐渐凌乱，面目逐渐可憎，键盘逐渐散架(砸的)。</font>
 
@@ -38,11 +52,8 @@
   - 以及各种不知缘由的BUG，以及总结了其中最复杂的一个BUG，发了一篇关于`css`本地预览与部署不同的文章：[柯摩のblog](http://kemo.xyz/%E5%AE%8C%E7%BE%8E%E8%A7%A3%E5%86%B3%EF%BC%9AHexo-Next%E4%B8%BB%E9%A2%98%E6%9C%AC%E5%9C%B0%E5%8F%AF%E9%A2%84%E8%A7%88CSS%EF%BC%8C%E4%BD%86%E9%83%A8%E7%BD%B2%E5%88%B0%E7%BD%91%E7%AB%99CSS%E5%A4%B1%E6%95%88%E9%97%AE%E9%A2%98.html),[CSDN](https://blog.csdn.net/ExcaliburUlimited/article/details/105161761)
 
 - [x] 天池比赛的特征工程做了一半，勉强打卡，还得继续磕 ❎2️⃣
-- [x] [KeMo](https://github.com/ExcaliburEX/KeMo#2032129)项目的更新，加上明日便签计划 ❎2️⃣
+- [x] [Daily-Plan-In-Graduate-Life](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2032129)项目的更新 ❎2️⃣
 
-3️⃣&emsp;明日计划
-
-<img src = "https://i.loli.net/2020/03/22/6nlNCr3wTkhVHKp.png" height = "450"/>
 
 
 
@@ -51,7 +62,7 @@
 <font face="Noto Serif SC">1️⃣  花了一天时间完成了比赛项目的数据分析工作，写了blog分别在[kemo](https://kemo.xyz/%E5%A4%A9%E6%B1%A0_%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B_Task1-2_%E8%B5%9B%E9%A2%98%E7%90%86%E8%A7%A3%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.html)以及[csdn](https://blog.csdn.net/ExcaliburUlimited/article/details/105021630)。
 
 2️⃣  工作总结
-- [x] [KeMo](https://github.com/ExcaliburEX/KeMo#2031920)项目的更新，加上明日便签计划 ❎1️⃣
+- [x] [Daily-Plan-In-Graduate-Life](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#20320)项目的更新 ❎1️⃣
 - [x] 天池比赛的研究，数据分析 ❎1️⃣
 </font>  
 
