@@ -40,9 +40,7 @@
 
 <font face="Noto Serif SC">3️⃣&emsp;天池比赛也结束了，得了一些虚名。</font>
 
-<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/award1.jpg width="250"/>
-<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/award2.jpg width="250"/>
-<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/award3.jpg width="250"/>
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/award1.jpg width="250"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/award2.jpg width="250"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/award3.jpg width="250"/>
 
 ## <font face="Times New Roman" color=#0044BB >20.3.30~4.1</font>
 <font face="Noto Serif SC">1️⃣&emsp;天池比赛的第二个任务搞定，写完文章[天池_二手车价格预测_Task3_特征工程](https://editor.csdn.net/md/?articleId=105170015)<br>关于本任务总结的脑图：</font>
