@@ -26,6 +26,24 @@
 [![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) 
 
 
+
+## <font face="Times New Roman" color=#0044BB >20.4.2~4.13</font>
+> <font face="Noto Serif SC">时光匆匆，又过了许多个日夜。感觉也没干啥，除了搞了个有颜色的项目外，刚参加了「one」线上实习已经开始了，希望这一周能有所收获吧。</font>
+
+<font face="Noto Serif SC">1️⃣&emsp;[AutoS&D](https://github.com/ExcaliburEX/GHS)</font>
+
+<font face="Noto Serif SC">2️⃣&emsp;[「one」](http://wufazhuce.com/article/4270)的实习活动，第一个任务是活动策划分析报告。我选取了一个心理测试和一个Datawhale的线上组队学习项目，写在了简书上[「one」线上实习任务一 活动策划分析报告](https://www.jianshu.com/p/4c3228e19c01)</font>
+
+
+<img src=https://uploader.shimo.im/f/dRcaukhaynfGwAqS.PNG!thumbnail height="500"/>
+<br><br>
+
+<font face="Noto Serif SC">3️⃣&emsp;天池比赛也结束了，得了一些虚名。</font>
+
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/award1.jpg width="250"/>
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/award2.jpg width="250"/>
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/award3.jpg width="250"/>
+
 ## <font face="Times New Roman" color=#0044BB >20.3.30~4.1</font>
 <font face="Noto Serif SC">1️⃣&emsp;天池比赛的第二个任务搞定，写完文章[天池_二手车价格预测_Task3_特征工程](https://editor.csdn.net/md/?articleId=105170015)<br>关于本任务总结的脑图：</font>
 
