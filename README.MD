@@ -26,6 +26,17 @@
 [![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) 
 
 
+## <font face="Times New Roman" color=#0044BB >20.4.14~4.19</font>
+> <font face="Noto Serif SC">至此，一周的「ONE」的线上实习也接近了尾声。<br><br>这次活动，很明显是一个双赢的活动。有几个点想表达一下：<br>1️⃣ 作为一个「ONE」8年的老用户，还是挺激动能有这样的机会的。那是在高中语文课上，“遥远”的语文老师推荐给我们的，至那以后它就陪伴在我周围。<br><br>2️⃣ 这次活动所有人也经历了一开始的满腔热情，到后来在日常生活中，没有声息的交流后面渐渐失去热情的过程。当然这是所有小组活动的通病，更别提一群互不相识的陌生人之间的合作了。<br><br>3️⃣ 虽然我对新媒体的热情并不是那么高涨，我内心只不过希望我的文字能得到少部分人的共鸣反应就足够了。「ONE」的有些内容于我有强烈的共鸣，自然我也想通过它来理解如何获得产生网络时代持续不断共鸣文字的能力。<br><br>4️⃣ 最后一个任务我们没有完成的很好，因为最后坚持下来的人越来越少，大家你一言我一语，甚至出现有人觉得自己被冷落了，拒绝交流，开小窗交流，然后让组长转达的骚操作。不过至少跟以往学校的小组活动一样，我完成了大部分工作，以往是这样，以后亦是如此。<br><br>最后感谢那些与我一同坚持到最后的队友，感谢「ONE」！有缘，江湖见！ </font>
+
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E3%80%8CONE%E3%80%8DDay3.png height="500"/>
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E3%80%8CONE%E3%80%8DDay4.png height="500"/>
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E3%80%8CONE%E3%80%8DEND.png height="500"/>
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E3%80%8CONE%E3%80%8DEND_GROWN.png height="500"/>
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E4%B8%AD%E6%96%87ONE%E8%AF%81%E4%B9%A6.png height="400"/>
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E8%8B%B1%E6%96%87ONE%E8%AF%81%E4%B9%A6.jpg height="400"/>
+
+
 
 ## <font face="Times New Roman" color=#0044BB >20.4.2~4.13</font>
 > <font face="Noto Serif SC">时光匆匆，又过了许多个日夜。感觉也没干啥，除了搞了个有颜色的项目外，刚参加了「one」线上实习已经开始了，希望这一周能有所收获吧。</font>
