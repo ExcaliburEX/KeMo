@@ -26,6 +26,22 @@
 [![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) 
 
 
+
+## <font face="Times New Roman" color=#0044BB >20.4.20~4.30</font>
+> <font face="Noto Serif SC">时间过的真快，不知不觉，已经来到了这充满谎言的时代的终点。干了点什么呢，记忆逐渐有些模糊不清了。哦，对，因为之前我参加了一个组队学习的活动，因此认识了一些队友，最近队友接单发现没时间做，就拜托我完成。我因此也发现一个代写各种算法作业的地方，第一份任务很满意，从零写一个朴素贝叶斯分类器，一天写完赚了400，还是挺酸爽的。后来又干了什么呢？不记得就是大概是各种琐事缠身，也许这就是孤独的常态。完成了HPC的三个作业，做了一个视频，录了一个演讲。</font>
+
+<font face="Noto Serif SC">1️⃣&emsp;实现了三个作业，[高性能分布式计算(HPC)作业1——节点实时通信](https://blog.csdn.net/ExcaliburUlimited/article/details/105873287)、[高性能分布式计算(HPC)作业2——节点通信，发布计算任务](https://blog.csdn.net/ExcaliburUlimited/article/details/105873303)、[高性能分布式计算(HPC)作业3——节点通信，发布计算任务，并在计算任务中阻塞](https://blog.csdn.net/ExcaliburUlimited/article/details/105873315)。</font>
+
+<font face="Noto Serif SC">2️⃣&emsp;从零实现一个朴素贝叶斯分类器为学生分班，发了CSDN，[从零实现朴素贝叶斯分类器(离散情况)——以学生分班为例](https://blog.csdn.net/ExcaliburUlimited/article/details/105873378)</font>
+
+<font face="Noto Serif SC">3️⃣&emsp;最近pyq充斥了各种问卷星调查问卷，所以写了个秒填爬虫。[利用Selenium秒填朋友圈各种问卷星调查问卷](https://blog.csdn.net/ExcaliburUlimited/article/details/105873424)</font>
+
+<font face="Noto Serif SC">4️⃣&emsp;关于剪的研会的云采访视频，回头传到B站吧(待更)。</font>
+
+<font face="Noto Serif SC">5️⃣&emsp;近期的一些图片。</font>
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/3c6c8298-8967-11ea-a02d-fa163e1f3304.png height="500"/>
+
+
 ## <font face="Times New Roman" color=#0044BB >20.4.14~4.19</font>
 > <font face="Noto Serif SC">至此，一周的「ONE」的线上实习也接近了尾声。<br><br>这次活动，很明显是一个双赢的活动。有几个点想表达一下：<br>1️⃣ 作为一个「ONE」8年的老用户，还是挺激动能有这样的机会的。那是在高中语文课上，“遥远”的语文老师推荐给我们的，至那以后它就陪伴在我周围。<br><br>2️⃣ 这次活动所有人也经历了一开始的满腔热情，到后来在日常生活中，没有声息的交流后面渐渐失去热情的过程。当然这是所有小组活动的通病，更别提一群互不相识的陌生人之间的合作了。<br><br>3️⃣ 虽然我对新媒体的热情并不是那么高涨，我内心只不过希望我的文字能得到少部分人的共鸣反应就足够了。「ONE」的有些内容于我有强烈的共鸣，自然我也想通过它来理解如何获得产生网络时代持续不断共鸣文字的能力。<br><br>4️⃣ 最后一个任务我们没有完成的很好，因为最后坚持下来的人越来越少，大家你一言我一语，甚至出现有人觉得自己被冷落了，拒绝交流，开小窗交流，然后让组长转达的骚操作。不过至少跟以往学校的小组活动一样，我完成了大部分工作，以往是这样，以后亦是如此。<br><br>最后感谢那些与我一同坚持到最后的队友，感谢「ONE」！有缘，江湖见！ </font>
 
