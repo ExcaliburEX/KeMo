@@ -39,7 +39,8 @@
 <font face="Noto Serif SC">4️⃣&emsp;关于剪的研会的云采访视频，回头传到B站吧(待更)。</font>
 
 <font face="Noto Serif SC">5️⃣&emsp;近期的一些图片。</font>
-<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/3c6c8298-8967-11ea-a02d-fa163e1f3304.png height="500"/>
+
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/3c6c8298-8967-11ea-a02d-fa163e1f3304.png height="500"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-5-01-ONE%E5%B7%A5%E4%BD%9C%E8%AF%81.jpg height="500"/>
 
 
 ## <font face="Times New Roman" color=#0044BB >20.4.14~4.19</font>
