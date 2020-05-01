@@ -36,7 +36,8 @@
 
 <font face="Noto Serif SC">3️⃣&emsp;最近pyq充斥了各种问卷星调查问卷，所以写了个秒填爬虫。[利用Selenium秒填朋友圈各种问卷星调查问卷](https://blog.csdn.net/ExcaliburUlimited/article/details/105873424)</font>
 
-<font face="Noto Serif SC">4️⃣&emsp;关于剪的研会的云采访视频，回头传到B站吧(待更)。</font>
+<font face="Noto Serif SC">4️⃣&emsp;关于剪的研会的云采访视频，已经上传到B站，点击下方图片跳转。</font>
+[![](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-05-01-%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE.png)](https://www.bilibili.com/video/BV1TZ4y147ZP)
 
 <font face="Noto Serif SC">5️⃣&emsp;近期的一些图片。</font>
 
