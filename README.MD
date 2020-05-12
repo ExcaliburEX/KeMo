@@ -39,7 +39,7 @@
 <font face="Noto Serif SC">4️⃣&emsp;近期讲座汇总：<br>
 - [人工智能前沿与交叉_李凡长_2020-05-08](https://pan.baidu.com/s/1LDGeTghYJYbo8kt7rjwoQg) 提取码: tre6
 - [功能纳米与软物质研究院讲座_仲启轩_2020-05-10](https://pan.baidu.com/s/1Ds1eqVpc0bTuGF26yOuHsA) 提取码: k5u5
-- [功能纳米与软物质研究院讲座_仲启轩_2020-05-10](https://pan.baidu.com/s/1V2CHLHNpiu37hu_fw4K84Q) 提取码: pzaj </font>
+- [知识图谱讲座_李直旭_2020-05-11](https://pan.baidu.com/s/1V2CHLHNpiu37hu_fw4K84Q) 提取码: pzaj </font>
 
 
 
