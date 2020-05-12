@@ -26,6 +26,29 @@
 [![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) 
 
 
+## <font face="Times New Roman" color=#0044BB >20.5.1~5.12</font>
+> <font face="Noto Serif SC">少年不识愁滋味，爱上层楼。爱上层楼。为赋新词强说愁。<br>而今识尽愁滋味，欲说还休。欲说还休。却道天凉好个秋。<br><br>真的难，是真的难。<br><br>这半个月过的是真的辛酸，一忽疹疾缠身，一忽又骑车飞摔，蹭的皮开肉绽。身体动弹不得，疹疾又致全身不得按宁。着实不知如何是好，现如今母上也奔赴都市生活，不知不觉，这段儿时至现在都未曾体验过的与母上一起生活这么久的时光已然结束了。激动的三月，慵懒的四月，以前未曾想到会有这样的一段怀念终身的生活，原以为这样的生活只有很多年后的年老之时才可体验。如今只因其过于美好，但终究是要结束的，即使我迷恋这样的生活，但内心的忧虑却也不断地在增加，再美好的时光，但总也要面对现实的压迫的。它的日复一日，每天的日常又是如此的重复，母亲终日看着小说，而我终日地在楼上看着电脑，虽然不舍，但这样的生活终究是不平衡的，我们都不应该被束缚在这里，虽然我们幸福地平平淡淡地陪伴在彼此左右，但此时的它应该是短暂的，我们彼此都有应该去做的事情，于当前，它只是看上去那么平静罢了，可我们还未实现的东西太多了，这样的生活提前来到了，幸福了但也徒增了很多不安。</font>
+
+
+<font face="Noto Serif SC">1️⃣&emsp;接的爬虫作业(￥500)，应该是利兹大学的，爬取既定网站的所有网页，为每次单词创造包含出现位置以及词频的反向索引等等，写了篇文章：[简单地打造一个搜索工具——爬取所有网页并创造单词的反向索引](https://blog.csdn.net/ExcaliburUlimited/article/details/106087957)</font>
+
+<font face="Noto Serif SC">2️⃣&emsp;帮学妹写了一个遗传算法，[地铁大小交路优化模型的遗传算法求解](https://blog.csdn.net/ExcaliburUlimited/article/details/106088598)</font>
+
+<font face="Noto Serif SC">3️⃣&emsp;接了法学院关于垃圾分类的视频剪辑(￥500)，改的头有点发晕，反馈还是很Nice的。链接: [垃圾分类](https://pan.baidu.com/s/1ixRlLQmwLwLFosRLKcgxaA) 提取码: 2hbi</font>
+
+<font face="Noto Serif SC">4️⃣&emsp;近期讲座汇总：<br>
+- [人工智能前沿与交叉_李凡长_2020-05-08](https://pan.baidu.com/s/1LDGeTghYJYbo8kt7rjwoQg) 提取码: tre6
+- [功能纳米与软物质研究院讲座_仲启轩_2020-05-10](https://pan.baidu.com/s/1Ds1eqVpc0bTuGF26yOuHsA) 提取码: k5u5
+- [功能纳米与软物质研究院讲座_仲启轩_2020-05-10](https://pan.baidu.com/s/1V2CHLHNpiu37hu_fw4K84Q) 提取码: pzaj </font>
+
+
+
+
+
+
+
+
+
 
 ## <font face="Times New Roman" color=#0044BB >20.4.20~4.30</font>
 > <font face="Noto Serif SC">时间过的真快，不知不觉，已经来到了这充满谎言的时代的终点。干了点什么呢，记忆逐渐有些模糊不清了。哦，对，因为之前我参加了一个组队学习的活动，因此认识了一些队友，最近队友接单发现没时间做，就拜托我完成。我因此也发现一个代写各种算法作业的地方，第一份任务很满意，从零写一个朴素贝叶斯分类器，一天写完赚了400，还是挺酸爽的。后来又干了什么呢？不记得就是大概是各种琐事缠身，也许这就是孤独的常态。完成了HPC的三个作业，做了一个视频，录了一个演讲。</font>
