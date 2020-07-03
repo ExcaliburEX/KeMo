@@ -27,6 +27,20 @@
 
 
 
+## <font face="Times New Roman" color=#0044BB >20.6.6~7.3</font>
+> <font face="Noto Serif SC">到公司后这个项目的更新就有点迟缓了，按理说到公司后大量的工作涌来应该有更多关于各种研究工作的内容可以记录，但事实恰恰相反，心事太多，做了不少事情，但更多地只是想写一旦心事。近来的事情大致可以罗列一下吧。</font>
+
+<font face="Noto Serif SC">1️⃣&emsp;</font>[`博客`](https://kemo.xyz/)又重新修缮了一下，更多地更重要的是对这个[`相识`](https://kemo.xyz/%E7%9B%B8%E8%AF%86.html)的增加更新。说道博客，也帮小治整了老久的博客，我们已经无聊到这种地步了吗？
+
+
+<font face="Noto Serif SC">2️⃣&emsp;</font>2号下午，新认了个Ai的徒弟，顺便大家一起花了一下午设计了实验室的各种版本的图标。如下：
+
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-07-02-1.png height="200"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-07-02-2.png height="200"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-07-02-3.png height="200"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-07-02-4.png width="200"/>
+
+<img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2020-07-02-5.png height="150"/>
+
+<font face="Noto Serif SC">3️⃣&emsp;</font>在overleaf上创造了我们实验室的专属[`Latex模板`](https://www.google.com/url?q=https://www.overleaf.com/latex/templates/su-zhou-da-xue-wang-luo-kong-jian-an-quan-shi-yan-shi-latexmo-ban-soochow-university-cyber-security-lab-report-template/zqzfbyjcrtbr&source=gmail&ust=1593880891336000&usg=AFQjCNHtfKA-LnmDHjVrjG_MHnck-IJkyg)。
+
 
 ## <font face="Times New Roman" color=#0044BB >20.5.13~6.5</font>
 > <font face="Noto Serif SC">待续</font>
