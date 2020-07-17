@@ -1,5 +1,13 @@
 # ♎️
 
+
+[![ExcaliburEX's github stats](https://github-readme-stats.vercel.app/api?username=ExcaliburEX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ExcaliburEX)
+
+<a href="https://github.com/ExcaliburEX/KeMo">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ExcaliburEX&repo=KeMo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
 # <font face="Comic Sans MS" color=#666666>所以你也来看我了?🧐</font>
 <br><br>
 
