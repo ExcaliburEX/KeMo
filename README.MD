@@ -38,7 +38,7 @@
 
 # <font face="Times New Roman" color=#0044BB >20.7.16</font>
 
-## 1.分布式存储系统中容错技术综述
+## 1.[分布式存储系统中容错技术综述](https://github.com/ExcaliburEX/KeMo/blob/master/paper/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%B9%E9%94%99%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0.pdf)
 
 ### 基本信息
 
@@ -107,7 +107,7 @@
 
 # <font face="Times New Roman" color=#0044BB >20.7.15</font>
 
-## 1. 基于HDFS的分布式文件系统数据冗余技术研究    
+## 1. [基于HDFS的分布式文件系统数据冗余技术研究](https://github.com/ExcaliburEX/KeMo/blob/master/paper/%E5%9F%BA%E4%BA%8EHDFS%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%86%97%E4%BD%99%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6.caj)    
 
 ### 基本信息
 
@@ -177,7 +177,7 @@
 
 # <font face="Times New Roman" color=#0044BB >20.7.14</font>
 
-## 1.P2P 分布式存储系统中冗余策略研究  
+## 1.[P2P分布式存储系统中冗余策略研究](https://github.com/ExcaliburEX/KeMo/blob/master/paper/P2P%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%86%97%E4%BD%99%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6.pdf)
 
 ### 基本信息
 
@@ -230,7 +230,7 @@
 
 水文，首先分析了冗余的定义和数据可用性的定义，然后分别阐述了全文复制，分块复制以及纠删码的冗余因子及其性能，最后罗列了现有的p2p分布式存储系统采用的冗余策略。可以，当科普看看。
 
-## 2.基于私有云的数据冗余技术研究    
+## 2.[基于私有云的数据冗余技术研究](https://github.com/ExcaliburEX/KeMo/blob/master/paper/%E5%9F%BA%E4%BA%8E%E7%A7%81%E6%9C%89%E4%BA%91%E7%9A%84%E6%95%B0%E6%8D%AE%E5%86%97%E4%BD%99%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6.pdf)    
 
 ### 基本信息
 
