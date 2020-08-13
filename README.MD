@@ -60,6 +60,8 @@
 
 # <font face="Times New Roman" color=#0044BB >20.7.17~20.8.7</font>
 > <font face="Noto Serif SC">嚯，这一下就过去了大半个月。浑浑噩噩，不知道每天都在干啥。最近论文停滞的原因主要在于不知道该看什么方向，有思路的方向，发不出论文，可以发论文的方向，没有能力做下去，项目的工作内容完全无法发论文。24号的时候，看的一篇论文，完全看不懂，太打击自信心，导致后来卡着看了好几天，什么都没看懂，心态就有点崩，后来就慢慢完全看不下去，不知道目的地在哪里，不知道方向在哪里。最近搭建实验环境，将近一个礼拜，写了三篇文章。但是在这样的环境中，中心节点可以与其他子节点通信，但是这些子节点相互之间却不能通信，只有子节点上传一个文件，中心节点查看了，有了缓存之后，其他的子节点才能访问这个文件，这就完全脱离了分布式的特点，只要中心节点一宕机，其他节点全抓瞎。好难，前路漫漫，不知坑处。s</font>
+<details>
+<summary>P2P网络存储系统的数据可靠性研究</summary>
 
 ## P2P网络存储系统的数据可靠性研究
 
@@ -121,10 +123,12 @@
 - 研究如何更好的精确查询。
 
 这篇文章，还是在可以想见的范围内对冗余算法进行了改进，就是基于访问热度的冗余策略，另外让我注意到了(当然以往也有看到)，在冗余之后的如何分发是一个比较困难的问题。
-
+</details>
 
 
 # <font face="Times New Roman" color=#0044BB >20.7.16</font>
+<details>
+<summary>1.分布式存储系统中容错技术综述</summary>
 
 ## 1.[分布式存储系统中容错技术综述](https://github.com/ExcaliburEX/KeMo/blob/master/paper/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%B9%E9%94%99%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0.pdf)
 
@@ -192,8 +196,11 @@
 5. Piggybacking编码，研究还处在起步阶段，有很多理论和实际应用还不太完善。
 
 全篇花了大篇幅在论述piggybacking的理论，构造以及应用，而且19年有一篇硕士论文专门论文了piggyback技术，说明还是一个研究热点，可以做做功夫。
+</details>
 
 # <font face="Times New Roman" color=#0044BB >20.7.15</font>
+<details>
+<summary>1.基于HDFS的分布式文件系统数据冗余技术研究</summary>
 
 ## 1. [基于HDFS的分布式文件系统数据冗余技术研究](https://github.com/ExcaliburEX/KeMo/blob/master/paper/%E5%9F%BA%E4%BA%8EHDFS%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%86%97%E4%BD%99%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6.caj)    
 
@@ -262,8 +269,12 @@
 - 设计了编码以及相应的放置策略，同时设计了中心节点的元数据包括，数据结构，Blokc位置和操作日志；
 - 最后考虑了负载均衡以及在Fedora 13 上用Eclipse进行了仿真。
 
+</details>
 
 # <font face="Times New Roman" color=#0044BB >20.7.14</font>
+
+<details>
+<summary>1.P2P分布式存储系统中冗余策略研究</summary>
 
 ## 1.[P2P分布式存储系统中冗余策略研究](https://github.com/ExcaliburEX/KeMo/blob/master/paper/P2P%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%86%97%E4%BD%99%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6.pdf)
 
@@ -318,6 +329,12 @@
 
 水文，首先分析了冗余的定义和数据可用性的定义，然后分别阐述了全文复制，分块复制以及纠删码的冗余因子及其性能，最后罗列了现有的p2p分布式存储系统采用的冗余策略。可以，当科普看看。
 
+</details>
+
+
+<details>
+<summary>2.基于私有云的数据冗余技术研究</summary>
+
 ## 2.[基于私有云的数据冗余技术研究](https://github.com/ExcaliburEX/KeMo/blob/master/paper/%E5%9F%BA%E4%BA%8E%E7%A7%81%E6%9C%89%E4%BA%91%E7%9A%84%E6%95%B0%E6%8D%AE%E5%86%97%E4%BD%99%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6.pdf)    
 
 ### 基本信息
@@ -355,7 +372,13 @@
 - 总的来说，完全副本实现简单，在高动态的系统，节点平均可用性低的系统中还是适合纠删码，其中基于柯西矩阵的 RS 编码(CRS)又更好，反之，纠删码只会增加系统设计的复杂性；
 - RAID有广泛运用的历史，但不能满足新的存储需求。
 
+</details>
+
+
 # <font face="Times New Roman" color=#0044BB >20.7.4~7.13</font>
+
+<details>
+<summary>1.基于P2P的分布式存储的研究与实现</summary>
 
 ##  1.[基于P2P的分布式存储的研究与实现](https://github.com/ExcaliburEX/KeMo/blob/master/paper/%E5%9F%BA%E4%BA%8EP2P%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%AE%9E%E7%8E%B0.caj)
 
@@ -403,7 +426,11 @@
 ### 思考
 
 
+</details>
 
+
+<details>
+<summary>2.Peer-to-Peer存储系统中一种高效的数据维护方案</summary>
 
 ## 2.[Peer-to-Peer存储系统中一种高效的数据维护方案](https://github.com/ExcaliburEX/KeMo/blob/master/paper/Peer-to-Peer%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%E4%B8%AD%E4%B8%80%E7%A7%8D%E9%AB%98%E6%95%88%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%B4%E6%8A%A4%E6%96%B9%E6%A1%88.pdf)
 
@@ -515,7 +542,7 @@
   - <img src='https://i.loli.net/2020/07/11/tbjWHoUyaxmugl7.png' title='quicker_22b7c65e-c1d7-4bad-a44e-d2cbc906ffd8.png' />
 - 系统的运行过程如下:数据对象最初存入系统时,冗余算法被调用.冗余算法根据数据的目标可用性并通过监控服务统计出的节点动态性为对象产生一个配置,包括冗余方式、冗余度和放置策略.当数据存入系统后,系统通过目录服务建立副本和节点的对应关系.对于每个数据对象,系统定期地通过目录服务和监控服务查看存放其副本的节点失效情况,以评估对象的冗余度.如果冗余度低于能够保证目标可用性的最低冗余度,则系统触发修复并调用修复算法产生新的副本。
 
-
+</details>
 
 # <font face="Times New Roman" color=#0044BB >20.6.6~7.3</font>
 > <font face="Noto Serif SC">到公司后这个项目的更新就有点迟缓了，按理说到公司后大量的工作涌来应该有更多关于各种研究工作的内容可以记录，但事实恰恰相反，心事太多，做了不少事情，但更多地只是想写一旦心事。近来的事情大致可以罗列一下吧。</font>
