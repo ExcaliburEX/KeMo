@@ -36,6 +36,37 @@
 [![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) 
 
 
+
+# 目录📚
+
+- [2️⃣0️⃣2️⃣0️⃣➖3️⃣➖4️⃣〰️3️⃣➖8️⃣](https://github.com/ExcaliburEX/KeMo#203438)
+- [2️⃣0️⃣2️⃣0️⃣➖3️⃣➖9️⃣〰️3️⃣➖1️⃣2️⃣](https://github.com/ExcaliburEX/KeMo#2039312)
+- [2️⃣0️⃣2️⃣0️⃣➖3️⃣➖1️⃣3️⃣〰️3️⃣➖1️⃣6️⃣](https://github.com/ExcaliburEX/KeMo#20313316)
+- [2️⃣0️⃣2️⃣0️⃣➖3️⃣➖1️⃣7️⃣](https://github.com/ExcaliburEX/KeMo#20317)
+- [2️⃣0️⃣2️⃣0️⃣➖3️⃣➖1️⃣8️⃣](https://github.com/ExcaliburEX/KeMo#20318)
+- [2️⃣0️⃣2️⃣0️⃣➖3️⃣➖1️⃣9️⃣〰️3️⃣➖2️⃣0️⃣](https://github.com/ExcaliburEX/KeMo#2031920)
+- [2️⃣0️⃣2️⃣0️⃣➖3️⃣➖2️⃣1️⃣](https://github.com/ExcaliburEX/KeMo#20321)
+- [2️⃣0️⃣2️⃣0️⃣➖3️⃣➖2️⃣2️⃣〰️3️⃣➖2️⃣9️⃣](https://github.com/ExcaliburEX/KeMo#20322329)
+- [2️⃣0️⃣2️⃣0️⃣➖3️⃣➖3️⃣0️⃣〰️4️⃣➖1️⃣](https://github.com/ExcaliburEX/KeMo#2033041)
+- [2️⃣0️⃣2️⃣0️⃣➖4️⃣➖2️⃣〰️4️⃣➖1️⃣3️⃣](https://github.com/ExcaliburEX/KeMo#2042413)
+- [2️⃣0️⃣2️⃣0️⃣➖4️⃣➖1️⃣4️⃣〰️4️⃣➖1️⃣9️⃣](https://github.com/ExcaliburEX/KeMo#20414419)
+- [2️⃣0️⃣2️⃣0️⃣➖4️⃣➖2️⃣0️⃣〰️4️⃣➖3️⃣0️⃣](https://github.com/ExcaliburEX/KeMo#20420430)
+- [2️⃣0️⃣2️⃣0️⃣➖5️⃣➖1️⃣〰️5️⃣➖1️⃣2️⃣](https://github.com/ExcaliburEX/KeMo#2051512)
+- [2️⃣0️⃣2️⃣0️⃣➖5️⃣➖1️⃣3️⃣〰️6️⃣➖5️⃣](https://github.com/ExcaliburEX/KeMo#2051365)
+- [2️⃣0️⃣2️⃣0️⃣➖6️⃣➖6️⃣〰️7️⃣➖3️⃣](https://github.com/ExcaliburEX/KeMo#206673)
+- [2️⃣0️⃣2️⃣0️⃣➖7️⃣➖4️⃣〰️7️⃣➖1️⃣3️⃣](https://github.com/ExcaliburEX/KeMo#2074713)
+- [2️⃣0️⃣2️⃣0️⃣➖7️⃣➖1️⃣4️⃣](https://github.com/ExcaliburEX/KeMo#20714)
+- [2️⃣0️⃣2️⃣0️⃣➖7️⃣➖1️⃣5️⃣](https://github.com/ExcaliburEX/KeMo#20715)
+- [2️⃣0️⃣2️⃣0️⃣➖7️⃣➖1️⃣6️⃣](https://github.com/ExcaliburEX/KeMo#20716)
+- [2️⃣0️⃣2️⃣0️⃣➖7️⃣➖1️⃣7️⃣〰️8️⃣➖7️⃣](https://github.com/ExcaliburEX/KeMo#207172087)
+- [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖8️⃣〰️8️⃣➖1️⃣2️⃣](https://github.com/ExcaliburEX/KeMo#208820812)
+
+
+
+
+
+
+
 # <font face="Times New Roman" color=#0044BB >20.8.8~20.8.12</font>
 也许就这样就挺好的吧，不加引用格式了。10号的组会，分享了下自己7号周五立秋那晚，跟浩浩酣畅淋漓吃鸡两小时后的深夜突然来的灵感。后来想想也不是啥灵感，就是把整个项目全局考虑了下需要实现的东西罢了，只是看的还不够多，所以没有细节考虑，详情就在下面的图片。虽然我不断地向众人展示我的想法的时候，我也慢慢地思路清晰了起来，虽然我在讲冗余的实现，事实上是讲了整个系统的实现流程，但是冗余的进程确实贯穿着文件上传下载的始终，但问题是一个存储系统主要就包含了上传于下载，所以在讲冗余实现时，事实上就讲了整个系统的实现过程。结果也很明显，翔哥还是让我只专注于纠删码算法的细节部分，毕竟说了这么多，我只是用`IPFS`作为底层实现了一个非常简单的冗余demo，其中大部分都是`IPFS`定死的，无法改变。所以忙活了一通，我其实毫无进展，原地徘徊。可是这个领域我不知该怎么走下去。此时，有两人程序已经开始跑程序了，一个跑完程序开始写文章了。
 
