@@ -67,8 +67,9 @@
 
 
 # <font face="Times New Roman" color=#0044BB >20.8.13~20.8.17</font>
-> 这一周几乎就是在发呆中度过的，好像有了方向，但好像又没什么方向。能做的太多，做得到的太少。一读到复杂的东西就开始读不下去，脑海中想的是即使我把它全都读懂了，能不能复现呢，就算是能复现了，能不能改造呢，就算能改造了，能不能发论文呢，就算能发论文了，这中间的时间是多少呢？几个月亦或是一两年？这些问题都是未知数，做下去还是放弃，时时刻刻萦绕在周围，我开始束手束脚，寸步难行，畏首畏尾，消极懈怠，什么都做不成。这种状态再这么持续下去，夏天真的就已经结束了。
+这一周几乎就是在发呆中度过的，好像有了方向，但好像又没什么方向。能做的太多，做得到的太少。一读到复杂的东西就开始读不下去，脑海中想的是即使我把它全都读懂了，能不能复现呢，就算是能复现了，能不能改造呢，就算能改造了，能不能发论文呢，就算能发论文了，这中间的时间是多少呢？几个月亦或是一两年？这些问题都是未知数，做下去还是放弃，时时刻刻萦绕在周围，我开始束手束脚，寸步难行，畏首畏尾，消极懈怠，什么都做不成。这种状态再这么持续下去，夏天真的就已经结束了。
 
+---
 
 <details>
 <summary>1.A High-availability Data Backup Strategy for IPFS</summary>
@@ -173,6 +174,7 @@
 # <font face="Times New Roman" color=#0044BB >20.8.8~20.8.12</font>
 也许就这样就挺好的吧，不加引用格式了。10号的组会，分享了下自己7号周五立秋那晚，跟浩浩酣畅淋漓吃鸡两小时后的深夜突然来的灵感。后来想想也不是啥灵感，就是把整个项目全局考虑了下需要实现的东西罢了，只是看的还不够多，所以没有细节考虑，详情就在下面的图片。虽然我不断地向众人展示我的想法的时候，我也慢慢地思路清晰了起来，虽然我在讲冗余的实现，事实上是讲了整个系统的实现流程，但是冗余的进程确实贯穿着文件上传下载的始终，但问题是一个存储系统主要就包含了上传于下载，所以在讲冗余实现时，事实上就讲了整个系统的实现过程。结果也很明显，翔哥还是让我只专注于纠删码算法的细节部分，毕竟说了这么多，我只是用`IPFS`作为底层实现了一个非常简单的冗余demo，其中大部分都是`IPFS`定死的，无法改变。所以忙活了一通，我其实毫无进展，原地徘徊。可是这个领域我不知该怎么走下去。此时，有两人程序已经开始跑程序了，一个跑完程序开始写文章了。
 
+---
 
 - 框架图
 ![图片4.png](https://i.loli.net/2020/08/13/xQCO2yj7mFKMksi.png)
@@ -194,6 +196,9 @@
 
 # <font face="Times New Roman" color=#0044BB >20.7.17~20.8.7</font>
 > <font face="Noto Serif SC">嚯，这一下就过去了大半个月。浑浑噩噩，不知道每天都在干啥。最近论文停滞的原因主要在于不知道该看什么方向，有思路的方向，发不出论文，可以发论文的方向，没有能力做下去，项目的工作内容完全无法发论文。24号的时候，看的一篇论文，完全看不懂，太打击自信心，导致后来卡着看了好几天，什么都没看懂，心态就有点崩，后来就慢慢完全看不下去，不知道目的地在哪里，不知道方向在哪里。最近搭建实验环境，将近一个礼拜，写了三篇文章。但是在这样的环境中，中心节点可以与其他子节点通信，但是这些子节点相互之间却不能通信，只有子节点上传一个文件，中心节点查看了，有了缓存之后，其他的子节点才能访问这个文件，这就完全脱离了分布式的特点，只要中心节点一宕机，其他节点全抓瞎。好难，前路漫漫，不知坑处。s</font>
+
+---
+
 <details>
 <summary>P2P网络存储系统的数据可靠性研究</summary>
 
@@ -681,6 +686,8 @@
 # <font face="Times New Roman" color=#0044BB >20.6.6~7.3</font>
 > <font face="Noto Serif SC">到公司后这个项目的更新就有点迟缓了，按理说到公司后大量的工作涌来应该有更多关于各种研究工作的内容可以记录，但事实恰恰相反，心事太多，做了不少事情，但更多地只是想写一旦心事。近来的事情大致可以罗列一下吧。</font>
 
+---
+
 <font face="Noto Serif SC">1️⃣&emsp;</font>[`博客`](https://kemo.xyz/)又重新修缮了一下，更多地更重要的是对这个[`相识`](https://kemo.xyz/%E7%9B%B8%E8%AF%86.html)的增加更新。说道博客，也帮小治整了老久的博客，我们已经无聊到这种地步了吗？
 
 
@@ -695,7 +702,9 @@
 
 # <font face="Times New Roman" color=#0044BB >20.5.13~6.5</font>
 > <font face="Noto Serif SC">待续</font>
-> 
+
+---
+
 <font face="Noto Serif SC">1️⃣&emsp;[用PySimpleGUI实现一个简易的分布式计算系统——简易多机协同计算原型系统(Simply Multi-Machine Collaborative Computing)](https://blog.csdn.net/ExcaliburUlimited/article/details/106317529)</font>
 
 
@@ -733,6 +742,8 @@
 ## <font face="Times New Roman" color=#0044BB >20.4.20~4.30</font>
 > <font face="Noto Serif SC">时间过的真快，不知不觉，已经来到了这充满谎言的时代的终点。干了点什么呢，记忆逐渐有些模糊不清了。哦，对，因为之前我参加了一个组队学习的活动，因此认识了一些队友，最近队友接单发现没时间做，就拜托我完成。我因此也发现一个代写各种算法作业的地方，第一份任务很满意，从零写一个朴素贝叶斯分类器，一天写完赚了400，还是挺酸爽的。后来又干了什么呢？不记得就是大概是各种琐事缠身，也许这就是孤独的常态。完成了HPC的三个作业，做了一个视频，录了一个演讲。</font>
 
+---
+
 <font face="Noto Serif SC">1️⃣&emsp;实现了三个作业，[高性能分布式计算(HPC)作业1——节点实时通信](https://blog.csdn.net/ExcaliburUlimited/article/details/105873287)、[高性能分布式计算(HPC)作业2——节点通信，发布计算任务](https://blog.csdn.net/ExcaliburUlimited/article/details/105873303)、[高性能分布式计算(HPC)作业3——节点通信，发布计算任务，并在计算任务中阻塞](https://blog.csdn.net/ExcaliburUlimited/article/details/105873315)。</font>
 
 <font face="Noto Serif SC">2️⃣&emsp;从零实现一个朴素贝叶斯分类器为学生分班，发了CSDN，[从零实现朴素贝叶斯分类器(离散情况)——以学生分班为例](https://blog.csdn.net/ExcaliburUlimited/article/details/105873378)</font>
@@ -750,12 +761,16 @@
 ## <font face="Times New Roman" color=#0044BB >20.4.14~4.19</font>
 > <font face="Noto Serif SC">至此，一周的「ONE」的线上实习也接近了尾声。<br><br>这次活动，很明显是一个双赢的活动。有几个点想表达一下：<br>1️⃣ 作为一个「ONE」8年的老用户，还是挺激动能有这样的机会的。那是在高中语文课上，“遥远”的语文老师推荐给我们的，至那以后它就陪伴在我周围。<br><br>2️⃣ 这次活动所有人也经历了一开始的满腔热情，到后来在日常生活中，没有声息的交流后面渐渐失去热情的过程。当然这是所有小组活动的通病，更别提一群互不相识的陌生人之间的合作了。<br><br>3️⃣ 虽然我对新媒体的热情并不是那么高涨，我内心只不过希望我的文字能得到少部分人的共鸣反应就足够了。「ONE」的有些内容于我有强烈的共鸣，自然我也想通过它来理解如何获得产生网络时代持续不断共鸣文字的能力。<br><br>4️⃣ 最后一个任务我们没有完成的很好，因为最后坚持下来的人越来越少，大家你一言我一语，甚至出现有人觉得自己被冷落了，拒绝交流，开小窗交流，然后让组长转达的骚操作。不过至少跟以往学校的小组活动一样，我完成了大部分工作，以往是这样，以后亦是如此。<br><br>最后感谢那些与我一同坚持到最后的队友，感谢「ONE」！有缘，江湖见！ </font>
 
+---
+
 <img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E3%80%8CONE%E3%80%8DDay3.png height="500"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E3%80%8CONE%E3%80%8DDay4.png height="500"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E3%80%8CONE%E3%80%8DEND.png height="500"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E3%80%8CONE%E3%80%8DEND_GROWN.png height="500"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E4%B8%AD%E6%96%87ONE%E8%AF%81%E4%B9%A6.png height="400"/><img src=https://blog-1259799643.cos.ap-shanghai.myqcloud.com/%E8%8B%B1%E6%96%87ONE%E8%AF%81%E4%B9%A6.jpg height="400"/>
 
 
 
 ## <font face="Times New Roman" color=#0044BB >20.4.2~4.13</font>
 > <font face="Noto Serif SC">时光匆匆，又过了许多个日夜。感觉也没干啥，除了搞了个有颜色的项目外，刚参加了「one」线上实习已经开始了，希望这一周能有所收获吧。</font>
+
+---
 
 <font face="Noto Serif SC">1️⃣&emsp;[AutoS&D](https://github.com/ExcaliburEX/GHS)</font>
 
@@ -772,6 +787,8 @@
 ## <font face="Times New Roman" color=#0044BB >20.3.30~4.1</font>
 <font face="Noto Serif SC">1️⃣&emsp;天池比赛的第二个任务搞定，写完文章[天池_二手车价格预测_Task3_特征工程](https://editor.csdn.net/md/?articleId=105170015)<br>关于本任务总结的脑图：</font>
 
+---
+
 ![特征工程](https://img-blog.csdnimg.cn/20200402004507865.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0V4Y2FsaWJ1clVsaW1pdGVk,size_16,color_FFFFFF,t_70#pic_center)
 
 <font face="Noto Serif SC">2️⃣&emsp;3天工作总结
@@ -785,6 +802,8 @@
 
 ## <font face="Times New Roman" color=#0044BB >20.3.22~3.29</font>
 > <font face="Noto Serif SC">终于有机会更新了，这后面的5天里，我只做了一件事，就是改造[个人博客网站](https://kemo.xyz)。改到天昏地暗，改到海枯石烂，改到脾气逐渐暴躁，发髻逐渐凌乱，面目逐渐可憎，键盘逐渐散架(砸的)。</font>
+
+---
 
 <font face="Noto Serif SC">1️⃣&emsp;最近重新修缮鼓捣个人博客，首先大刀阔斧地改造背景以及动态效果，移除那些没有用的js动画，当代世界的快节奏，人们已经不再喜欢复杂，充斥颗粒的东西了，内容至上，简约独特，这是永远的核心。其次加入友链，虽然朋友们没有什么博客，但他们有qq空间和B站啊。最重要的是加入具有大师锋范的相册，qq空间的相册太难看，微信又没有相册，B站又不适合，简书，csdn，github都是技术，也不适合，还是这里最安全最炫酷。学习了不少css的知识，最重要的是自己给自己增加了更新的动力与压力吧。——发自于3.25号的打卡</font>
 
@@ -813,6 +832,8 @@
 
 ## <font face="Times New Roman" color=#0044BB >20.3.19~20</font>
 > 这两天没顾得上学`go`，总觉得有些事没思考清楚。
+
+---
 
 <font face="Noto Serif SC">1️⃣  忧心论文，所以看了知网研学的[哈工大专场-论文阅读写作与学术规范](https://www.bilibili.com/video/av96719855?t=53)，要算收获的话是以前没注意到的知网的分析分类功能，主要问题还是怎样找自己的研究方向吧。
 
