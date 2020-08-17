@@ -60,12 +60,115 @@
 - [2️⃣0️⃣2️⃣0️⃣➖7️⃣➖1️⃣6️⃣](https://github.com/ExcaliburEX/KeMo#20716)
 - [2️⃣0️⃣2️⃣0️⃣➖7️⃣➖1️⃣7️⃣〰️8️⃣➖7️⃣](https://github.com/ExcaliburEX/KeMo#207172087)
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖8️⃣〰️8️⃣➖1️⃣2️⃣](https://github.com/ExcaliburEX/KeMo#208820812)
+- [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖1️⃣3️⃣〰️8️⃣➖1️⃣7️⃣](https://github.com/ExcaliburEX/KeMo#2081320817)
 
 
 
 
 
+# <font face="Times New Roman" color=#0044BB >20.8.13~20.8.17</font>
 
+
+
+<details>
+<summary>1.A High-availability Data Backup Strategy for IPFS</summary>
+
+## 1.[A High-availability Data Backup Strategy for IPFS](https://github.com/ExcaliburEX/KeMo/blob/master/paper/2019 - Shi et al. - A High-availability Data Backup Strategy for IPFS.pdf)
+
+### 基本信息
+
+- 2019 IEEE International Conference on Consumer Electronics - Taiwan, ICCE-TW 2019
+
+- 2019年
+
+- 关键词：
+
+- 摘要
+
+  > The InterPlanetary File System (IPFS) is a peer-to-peer distributed file system. It can greatly reduce the cost of data storage and improve the performance of data download. Currently, the IPFS-based distributed storage systems mostly uses the centralized backup mechanism. Although it can provide high data availability, centralized nodes will be single fault peer and become the bottleneck of system performance. This paper proposes a high-availability data backup strategy based on QoS and interest of IPFS nodes. Compared with the existing methods, the experimental results demonstrate that our proposed strategy is more effective and practical.
+
+- 引用格式
+
+  > Shi, L., Luo, H., Yang, X., & Sun, Y. (2019, May 1). A High-availability Data Backup Strategy for IPFS. 2019 IEEE International Conference on Consumer Electronics - Taiwan, ICCE-TW 2019. https://doi.org/10.1109/ICCE-TW46550.2019.8991855
+
+### 摘录
+
+- 系统模型![image.png](https://i.loli.net/2020/08/17/bYK2ESZA9nry3WG.png)
+  ![image.png](https://i.loli.net/2020/08/17/ApODFJn7EHT2hNj.png)
+
+- 实验![image.png](https://i.loli.net/2020/08/17/Vwlx4Em1Uovn8aK.png)
+
+  
+
+- ![image.png](https://i.loli.net/2020/08/17/9Gv4JMjmCsbLuxE.png)
+
+### 思考
+
+- 这篇文章首先很短，其实几乎什么都没写。看似好像提出了`IPFS`的新的备份策略，但他们提出的节点之间的距离`d`，甚至都没有给出明确的定义，什么是节点距离，如何定义，无法得知，在这种情况下，设计的算法事实上是无法站住脚的。
+
+- 在具体实验中，原文写的是：
+
+  > An IPFS system with 50 nodes is constructed using MAT-LAB simulation. 
+
+  这句话，无论怎么翻译都是在`MATLAB Simulink`中实现了`IPFS`系统。（卧槽，这么高级的吗？！）但事实上，我发了邮件询问之后才发现，并不是。。。一个说不是我做的实验，并没有代码，另一个直接说`MATLAB`中没有`IPFS`系统。好吧，是我的英文理解有限，瑞斯拜。
+
+- 最后，事实上这个备份算法的实质：直接复制进行备份。只不过在节点的选择上，设计了一些特别的算法，但在节点选择算法中最关键的节点距离定义却一笔带过，没有详细定义，实在不知道他们是如何进行节点选择的。
+</details>
+
+
+<details>
+<summary>2.A Piggybacking Design Framework for Read-and Download-Efficient Distributed Storage Codes</summary>
+
+## 2.[A Piggybacking Design Framework for Read-and Download-Efficient Distributed Storage Codes](https://github.com/ExcaliburEX/KeMo/blob/master/paper/2013 - Rashmi, Shah, Ramchandran - A piggybacking design framework for read-and download-efficient distributed storage codes.pdf)
+
+### 基本信息
+
+- IEEE International Symposium on Information Theory - Proceedings
+
+- 2013年
+
+- 关键词：`Distributed storage`; `bandwidth and I/O`; `code-design framework`; `erasure codes`; `repair`
+
+- 摘要
+
+  > We present a new piggybacking framework for designing distributed storage codes that are efficient in the amount of data read and downloaded during node-repair. We illustrate the power of this framework by constructing explicit codes that attain the smallest amount of data to be read and downloaded for repair among all existing solutions for three important settings: (a) codes meeting the constraints of being maximum distance separable (MDS), high-rate, and having a small number of substripes, (b) binary MDS codes for all parameters where binary MDS codes exist, and (c) MDS codes with the smallest repair-locality. In addition, we show how to use this framework to enable efficient repair of parity nodes in existing codes that are constructed to address the repair of only the systematic nodes. The basic idea behind this framework is to take multiple stripes of existing codes and add carefully designed functions of the data of one stripe to other stripes. Typical savings in the amount of data read and downloaded during repair are 25% to 50% depending on the choice of the system parameters. © 2013 IEEE.
+
+- 引用格式
+
+  > Rashmi, K. V., Shah, N. B., & Ramchandran, K. (2013). A piggybacking design framework for read-and download-efficient distributed storage codes. IEEE International Symposium on Information Theory - Proceedings, 63(9), 331–335. https://doi.org/10.1109/ISIT.2013.6620242
+
+### 摘录
+
+- `piggybacking`编码示意图![image.png](https://i.loli.net/2020/08/17/oqHMxV21YkbgR7L.png)
+  ![image.png](https://i.loli.net/2020/08/17/VN9UD5YlQceIF1p.png)
+
+- Four classes of explicit code constructions
+
+  - (Class 1) A class ofcodes meeting the constraints ofbeing  MDS, high-rate, and having a small number of substripes, with the smallest known average amount of data read and downloaded for repair.
+  - (Class 2) Binary MDS codes with the lowest known average amount of data read and download for repair, for all parameters where binary MDS codes exist.
+  - (Class 3) Repair-efficient MDS codes with smallest possi-ble repair-locality.
+  - (Class 4) A method for reducing the amount of data read and downloaded during repair of parity nodes in existing codes that address only the repair of systematic nodes.
+
+- Framework![image.png](https://i.loli.net/2020/08/17/fhZgaIjNQKDB6n2.png)
+
+- Desgin 1![image.png](https://i.loli.net/2020/08/17/jINcRJv7X5AxgG2.png)
+  ![image.png](https://i.loli.net/2020/08/17/kNfD8QBW2n4z5cS.png)
+  ![image.png](https://i.loli.net/2020/08/17/fgQvJ3xbL1HnEkV.png)
+  ![image.png](https://i.loli.net/2020/08/17/ygdwzusPbfEvJ3S.png)
+
+- Experiment Results![image.png](https://i.loli.net/2020/08/17/MKnkfOLvgSREbGX.png)
+
+  
+
+  
+
+### 思考
+
+- 这是冗余纠删领域在2013年的一篇具有很强开创性的具有引领整个领域发展方向的重磅文章。基于现有的`MDS`再加上新的编码层，在不改变既有的工业界已投入使用的算法上，附加上新的规则，并且能极大降低读取与下载的负荷，应该说是非常厉害的原创性工作，类似于2012年的获得`ImageNet`第一的`AlexNet`之于深度学习与图像识别，以及2016年的`XGBoost`之于机器学习与数据挖掘。
+- 就像在那之后AI领域大放异彩，就快取代所有基础自然学科一样，仿佛这世界只有一种学科。当然对于`piggybacking`没有如此神乎其神，但它确实有着这样的潜力，毕竟Rashmi等人提出的是一种框架，而后人可以在这个框架上进行各种改造，以达在实验上得到更加优秀的存储上传下载实验数值，在这个层面上来说类似于AI调参一样，可以调出优秀的参数，只是从复现上来说，不仅仅是装个python环境，import一些包，安装一些tf，pytorch之类，敲几行代码而已，这里的调参意味着首先要有一套完善的实验环境，从搭建存储系统，构建冗余算法，感觉步步是坑呢。
+- 当然还有一个问题就是这篇文章涉及的旧有算法太多，并且又掺杂了自己的新算法，而且是基于`MDS`实现的，意味着还要熟悉`MDS`的具体思想与构建方法，此外还有大量的数学推导，又增加了理解难度，不提复现，理解起来难度就不小。只能继续看看往后七年里面有没有将其实现，并且以更加易于理解的方式解析的文章。
+
+</details>
 
 # <font face="Times New Roman" color=#0044BB >20.8.8~20.8.12</font>
 也许就这样就挺好的吧，不加引用格式了。10号的组会，分享了下自己7号周五立秋那晚，跟浩浩酣畅淋漓吃鸡两小时后的深夜突然来的灵感。后来想想也不是啥灵感，就是把整个项目全局考虑了下需要实现的东西罢了，只是看的还不够多，所以没有细节考虑，详情就在下面的图片。虽然我不断地向众人展示我的想法的时候，我也慢慢地思路清晰了起来，虽然我在讲冗余的实现，事实上是讲了整个系统的实现流程，但是冗余的进程确实贯穿着文件上传下载的始终，但问题是一个存储系统主要就包含了上传于下载，所以在讲冗余实现时，事实上就讲了整个系统的实现过程。结果也很明显，翔哥还是让我只专注于纠删码算法的细节部分，毕竟说了这么多，我只是用`IPFS`作为底层实现了一个非常简单的冗余demo，其中大部分都是`IPFS`定死的，无法改变。所以忙活了一通，我其实毫无进展，原地徘徊。可是这个领域我不知该怎么走下去。此时，有两人程序已经开始跑程序了，一个跑完程序开始写文章了。
@@ -94,7 +197,7 @@
 <details>
 <summary>P2P网络存储系统的数据可靠性研究</summary>
 
-## P2P网络存储系统的数据可靠性研究
+## [P2P网络存储系统的数据可靠性研究](https://github.com/ExcaliburEX/KeMo/blob/master/paper/P2P网络存储系统的数据可靠性研究.caj)
 
 ### 基本信息
 
