@@ -73,7 +73,7 @@
 <details>
 <summary>1.A High-availability Data Backup Strategy for IPFS</summary>
 
-## 1.[A High-availability Data Backup Strategy for IPFS](https://github.com/ExcaliburEX/KeMo/blob/master/paper/2019 - Shi et al. - A High-availability Data Backup Strategy for IPFS.pdf)
+## 1.[A High-availability Data Backup Strategy for IPFS](https://github.com/ExcaliburEX/KeMo/blob/master/paper/2019%20-%20Shi%20et%20al.%20-%20A%20High-availability%20Data%20Backup%20Strategy%20for%20IPFS.pdf))
 
 ### 基本信息
 
@@ -119,7 +119,7 @@
 <details>
 <summary>2.A Piggybacking Design Framework for Read-and Download-Efficient Distributed Storage Codes</summary>
 
-## 2.[A Piggybacking Design Framework for Read-and Download-Efficient Distributed Storage Codes](https://github.com/ExcaliburEX/KeMo/blob/master/paper/2013 - Rashmi, Shah, Ramchandran - A piggybacking design framework for read-and download-efficient distributed storage codes.pdf)
+## 2.[A Piggybacking Design Framework for Read-and Download-Efficient Distributed Storage Codes](https://github.com/ExcaliburEX/KeMo/blob/master/paper/2013%20-%20Rashmi%2C%20Shah%2C%20Ramchandran%20-%20A%20piggybacking%20design%20framework%20for%20read-and%20download-efficient%20distributed%20storage%20codes.pdf))
 
 ### 基本信息
 
