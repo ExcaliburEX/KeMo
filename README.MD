@@ -61,10 +61,188 @@
 - [2️⃣0️⃣2️⃣0️⃣➖7️⃣➖1️⃣7️⃣〰️8️⃣➖7️⃣](https://github.com/ExcaliburEX/KeMo#207172087)
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖8️⃣〰️8️⃣➖1️⃣2️⃣](https://github.com/ExcaliburEX/KeMo#208820812)
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖1️⃣3️⃣〰️8️⃣➖1️⃣7️⃣](https://github.com/ExcaliburEX/KeMo#2081320817)
+- [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖1️⃣8️⃣〰️9️⃣➖1️⃣](https://github.com/ExcaliburEX/KeMo#208182091)
 
 
+# <font face="Times New Roman" color=#0044BB >20.8.18~20.9.1</font>
+不知道在干嘛。
 
+---
 
+<details>
+<summary>1. 分布式存储系统中的纠删码容错方法研究</summary>
+
+## 1. 分布式存储系统中的纠删码容错方法研究  
+
+### 基本信息
+
+- 期刊，《计算机工程》
+
+- 2019年
+
+- 关键词：`分布式存储系统`；`纠删码`；`数据容错`；`数据编码`；`数据冗余`
+
+- > HRC 码是一种具有存储效率高、计算复杂度低等优点的纠删码， 但其存在编解码计算开销大、实现较为复杂等不足。通过对 HRC 码的译码算法进行优化， 提出一种新型的纠删码 HRCSD。采用内外层分层结构， 内部的冗余由 HRC 码的编码结构组成， 外层采用偏移复制策略， 将原始信息进行旋转存储， 能够实现并行读写。实验结果表明， 与三副本技术和 S 2-RAID 纠删码相比， HRCSD 纠删码具有容错性能高、修复开销低等优势， 可满足大规模分布式存储系统的容错需求。  
+
+- 引用格式
+
+  > 孙黎， 苏宇， 张弛， 等． 分布式存储系统中的纠删码容错方法研究[J]. 计算机工程，2019， 45( 11) : 74-80．  
+
+### 摘录
+
+- 本文针对目前大规模分布式存储系统中数据容错存储效率低、纠删码的编译码计算复杂等问题， 提出一种具有较高容错能力且能够快速实现的纠删码容错编码 HRCSD。HRCSD 基于 HRC 进行偏移复制得到， 通过复制技术， 可满足在分布式系统中对数据的并行读取需求。实验结果表明， 与三副本技术和 S2-RAID 码相比， HRCSD 具有较低的存储开销、较高的容错能力和单节点故障下快速修复的性能。本文提出的 HRCSD 在故障修复过程中考虑的是单一节点发生故障的情况， 下一步将研究多节点发生故障的修复方式， 以降低修复带宽， 加快数据的修复 。
+
+### 思考
+
+没怎么仔细看，不过估计作用不大。
+
+</details>
+
+<details>
+<summary>2. 基于piggybacking框架的分布式存储编码研究</summary>
+
+## 2. 基于piggybacking框架的分布式存储编码研究
+
+### 基本信息
+
+- 硕士论文
+
+- 2019年
+
+- 关键词：`Piggybacking编码`；`MDS码`；`分布式存储`；`节点修复修复`；`带宽比率`
+
+- 摘要
+
+  > 互联网、5 G 及其相关产业的飞速发展使我们迈入了大数据时代，存储海量数据将面临着巨大挑战。为了解决大数据存储中存储节点失效的问题，具有容错能力且节约存储资源的分布式存储编码成为大数据时代重点研究的核心技术之一。Piggybacking 编码作为分布式存储编码中的一类，以其优异的节点修复性能和较高的存储效率，再加上其复杂度低，设计灵活等特点，最近几年受到了越来越多的关注。本论文主要面向数据的容错存储，针对存储中的节点修复问题，为大数据和移动数据的分布式存储编码提供理论基础，为海量数据的高效、可靠存储提供技术支撑。
+  >
+  > 
+  >
+  > 首先，本论文对传统的数据存储容错，即多副本机制和 MDS 码进行了概述。接着介绍了三种主要的分布式存储编码，即再生码（RGC）、局部可修复码（LRC）和piggybacking 编码的基本原理、 发展现状以及它们各自的优缺点，为后续深入地研究打好基础。
+  >
+  > 
+  >
+  > 其次，本论文针对一种用于修复校验节点的 piggybacking 框架提出了两种改进。在保持编译码复杂度基本不变的前提下，第一种针对修复校验节点的改进使得信息节点和校验节点的修复带宽均有不同程度地降低，且改进后 piggybacking 框架的设计更加灵活多变。第二种针对信息节点修复的改进，通过牺牲校验节点很小部分的修复带宽来换取节点数更多的信息节点的修复带宽是有意义的。
+  >
+  > 
+  >
+  > 再次，本论文先对广义 piggybacking 编码进行了深入研究，指出了其校验节点修复存在的部分问题。更重要的是，本文基于广义 piggybacking 编码框架首次提出了 piggybacking 编码的多节点修复策略。经分析得到了诸如修复节点数、保护列比例、设计列比例、信息节点数以及校验节点数等因素对多节点的最小平均修复带宽比率产生的影响。这对设计出多节点修复性能优良的 piggybacking 编码具有一定的参考价值。
+  >
+  > 
+  >
+  > 最后，本论文提出了一个全新的双层 piggybacking 框架（D-PB-1），通过最优化预留子条带比例 $p_a$和捎带子条带比例$p_b$同时有效地修复了信息节点和校验节点，大大降低了修复带宽。经分析，当信息节点数 𝑘 和校验节点数 𝑟 趋于无穷大时，所有节点的平均修复带宽比率无限接近于 0。其次，本文又提出了改进的双层piggybacking 框架（D-PB-2），通过改变修复信息节点的 piggyback 块的构造方式进一步降低了修复带宽。与其它 piggybacking 编码相比，这两类双层 piggybacking 编码不仅结构设计灵活，还拥有最佳的综合修复能力，尤其以 D-PB-2 表现最佳。接着本文还给出了双层 piggybacking 框架多例嵌套的模型，在保证修复性能不变的前提下，降低了 piggybacking 框架中的子条带数。最后，本文通过分析一种针对 MDS 码校验节点的构造方式，联系到改进的双层 piggybacking 编码的一种极端情况，揭示了它们修复本质相同的事实。另外，本文据此在理论上还给出了基本 piggybacking框架节点修复下限的猜想。
+
+  
+
+  
+
+- 引用格式
+
+  > 李鑫, 基于piggybacking框架的分布式存储编码研究, 2019, 西安电子科技大学. 第 103页.
+
+### 摘录
+
+- 首先介绍了传统的多副本，MDS，再生码，局部可修复码；
+
+- Piggybacking 框架是在一个任意的、 我们称之为基本码的基础上操作的，目前的基本码都采用 MDS 码。piggybacking 编码保持了基本码的很多属性，比如最小距离和操作域。简单来说，piggybacking 框架是考虑 MDS 码的多个例（条带），并将某些例的数据通过设计的 piggyback 函数（线性组合）嵌入到其它例中，在修复失效节点的过程中将一部分 MDS 译码的操作转化为求解 piggyback 方程，有效地降低了修复带宽。通常 piggybacking 编码采用系统形式，因为系统形式中的信息节点承载了所有未编码的原始数据。因此用户通过直接访问信息节点就可以得到原始数据而不用访问某些校验节点采用 MDS 译码来恢复原始数据，这样不仅降低了获取原始数据的复杂度，还降低了获取数据的延迟。
+
+  ![image.png](https://i.loli.net/2020/09/01/7FDpgsqcaHVxm2Y.png)
+
+- 两种改进的piggybacking编码，一种针对修复校验节点的改进，一种针对修复信息节点的改进；
+
+- 多节点修复；
+
+- 双层piggybaing框架的分布式存储编码；
+
+### 思考
+
+信息量太大，目前为止我还是不知道piggybacking到底是什么玩意儿，最奇怪的是整篇文章貌似并没有做任何实验，更涉及不到什么Ubuntu，什么分布式存储系统，貌似就是纯数学领域的推理，然后用推导出的公式带入不同的数值就形成了曲线，从这个角度来说貌似好像还挺轻松，我压根不需要什么分布式环境，什么多节点机器，只需要一些基础理论知识，加以时日的思考，但涉及到数学又是最难的东西。
+
+</details>
+
+<details>
+<summary>3. A Piggybacking Design Framework for Read-and Download-Efficient Distributed Storage Codes —— silde</summary>
+
+## 3. A Piggybacking Design Framework for Read-and Download-Efficient Distributed Storage Codes —— silde
+
+### 基本信息
+
+- PPT
+
+- 2013
+
+- 关键词：无
+
+- 摘要
+
+  > 这是Rashmi做的一场关于Piggybacking框架的汇报。
+
+- 引用格式
+
+	> 无
+
+### 摘录
+
+无
+
+### 思考
+
+解决了我诸多疑惑：
+
+- MDS码到底是怎么实现的，比如RS code，跟多副本有什么区别：![image.png](https://i.loli.net/2020/09/01/XNWohPfk71e4Ilg.png)![image-20200901171133184](C:\Users\kemo\AppData\Roaming\Typora\typora-user-images\image-20200901171133184.png)
+
+- piggybacking框架的最简单的实现：![image.png](https://i.loli.net/2020/09/01/fGZEsKWjSLJbTOQ.png)
+  ![image.png](https://i.loli.net/2020/09/01/nUFi7OzoVZtp59S.png)
+  ![image.png](https://i.loli.net/2020/09/01/35YU9Fuaq1iyQeB.png)
+  ![image.png](https://i.loli.net/2020/09/01/dR2MrWVTbuyawcJ.png)
+  ![image.png](https://i.loli.net/2020/09/01/HG8sJjLeiEIY1pz.png)
+  ![image.png](https://i.loli.net/2020/09/01/RVGmTuJyUKtgDn9.png)
+  ![image.png](https://i.loli.net/2020/09/01/yN7Jtc1C5UTQ4ne.png)
+
+  
+
+- 一般化的piggybacking框架：
+
+  ![image.png](https://i.loli.net/2020/09/01/8D3mg45L9aIFeMN.png)
+  ![image.png](https://i.loli.net/2020/09/01/ecT7ijdoBYgl4wy.png)
+  ![image.png](https://i.loli.net/2020/09/01/TE2qfveMh9GOoDj.png)
+
+- piggybacking does not reduce minimum distance: can choose arbitrary functions (任意函数)for piggybacking.
+
+- 通过piggybacking框架可以：
+
+  - High-rate MDS codes：Lowst known IO & download during repair；
+  - Binary MDS（vector）codes： 
+    - Lowst known IO & download during repair；
+    - for all parameter where binary MDS(vector) codes exist
+    - lowest when #parity >= 3; En Gad et al. ISIT 2013 for #parity = 2
+  - Enabling parity repair in regenerating codes designed for only systematic repair
+    - efficiency in systematic repair retained;
+    - parity repair improved.
+  - Currently implementing (14,10) Piggyback-RS in HDFS:
+    - 30% reduction in IO and download;
+    - same storage & fault tolerance.
+
+- 为什么不用High-rate Minimum Storage Regenerating(MSR) codes 作为基本码：require block length exponential in k (Tamo et al. 2011)
+
+  ![image.png](https://i.loli.net/2020/09/01/n1rDCkYfJqSuceF.png)
+
+  ![image.png](https://i.loli.net/2020/09/01/mXDT76Qgj3wMPFe.png)
+
+- (14,10) Piggybacked-RS code
+
+  ![image.png](https://i.loli.net/2020/09/01/1nIkcTWQDK2BLFx.png)
+  ![image.png](https://i.loli.net/2020/09/01/oTIhARj8vwpY61z.png)
+  ![image.png](https://i.loli.net/2020/09/01/cupBDg7bJn9VtsX.png)
+
+- 需要的connectivity > in RS, 这是否是一个值得关注的问题？
+
+  ![image.png](https://i.loli.net/2020/09/01/zTjquH1276dpDwF.png)
+
+- 未来工作与开放性问题：
+
+  ![image.png](https://i.loli.net/2020/09/01/7vt6EuYLWgTDrGZ.png)
+
+</details>
 
 # <font face="Times New Roman" color=#0044BB >20.8.13~20.8.17</font>
 这一周几乎就是在发呆中度过的，好像有了方向，但好像又没什么方向。能做的太多，做得到的太少。一读到复杂的东西就开始读不下去，脑海中想的是即使我把它全都读懂了，能不能复现呢，就算是能复现了，能不能改造呢，就算能改造了，能不能发论文呢，就算能发论文了，这中间的时间是多少呢？几个月亦或是一两年？这些问题都是未知数，做下去还是放弃，时时刻刻萦绕在周围，我开始束手束脚，寸步难行，畏首畏尾，消极懈怠，什么都做不成。这种状态再这么持续下去，夏天真的就已经结束了。
