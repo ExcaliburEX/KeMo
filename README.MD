@@ -188,7 +188,9 @@
 
 解决了我诸多疑惑：
 
-- MDS码到底是怎么实现的，比如RS code，跟多副本有什么区别：![image.png](https://i.loli.net/2020/09/01/XNWohPfk71e4Ilg.png)![image-20200901171133184](C:\Users\kemo\AppData\Roaming\Typora\typora-user-images\image-20200901171133184.png)
+- MDS码到底是怎么实现的，比如RS code，跟多副本有什么区别：
+![image.png](https://i.loli.net/2020/09/01/XNWohPfk71e4Ilg.png)
+![image-20200901171133184.png](https://i.loli.net/2020/09/01/pf3GtjivEFC7Bs9.png)
 
 - piggybacking框架的最简单的实现：![image.png](https://i.loli.net/2020/09/01/fGZEsKWjSLJbTOQ.png)
   ![image.png](https://i.loli.net/2020/09/01/nUFi7OzoVZtp59S.png)
