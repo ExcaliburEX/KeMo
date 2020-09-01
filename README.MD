@@ -72,7 +72,7 @@
 <details>
 <summary>1. 分布式存储系统中的纠删码容错方法研究</summary>
 
-## 1. 分布式存储系统中的纠删码容错方法研究  
+## 1. [分布式存储系统中的纠删码容错方法研究](https://github.com/ExcaliburEX/KeMo/blob/master/paper/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E7%BA%A0%E5%88%A0%E7%A0%81%E5%AE%B9%E9%94%99%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6.pdf) 
 
 ### 基本信息
 
@@ -101,7 +101,7 @@
 <details>
 <summary>2. 基于piggybacking框架的分布式存储编码研究</summary>
 
-## 2. 基于piggybacking框架的分布式存储编码研究
+## 2. [基于piggybacking框架的分布式存储编码研究](https://github.com/ExcaliburEX/KeMo/blob/master/paper/%E5%9F%BA%E4%BA%8Epiggybacking%E6%A1%86%E6%9E%B6%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%BC%96%E7%A0%81%E7%A0%94%E7%A9%B6_%E6%9D%8E%E9%91%AB.caj)
 
 ### 基本信息
 
@@ -162,7 +162,7 @@
 <details>
 <summary>3. A Piggybacking Design Framework for Read-and Download-Efficient Distributed Storage Codes —— silde</summary>
 
-## 3. A Piggybacking Design Framework for Read-and Download-Efficient Distributed Storage Codes —— silde
+## 3. [A Piggybacking Design Framework for Read-and Download-Efficient Distributed Storage Codes —— silde](https://github.com/ExcaliburEX/KeMo/blob/master/paper/slides_Piggybacking_ISIT13.pdf)
 
 ### 基本信息
 
