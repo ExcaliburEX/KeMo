@@ -54,6 +54,20 @@
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖8️⃣〰️8️⃣➖1️⃣2️⃣](https://github.com/ExcaliburEX/KeMo#208820812)
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖1️⃣3️⃣〰️8️⃣➖1️⃣7️⃣](https://github.com/ExcaliburEX/KeMo#2081320817)
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖1️⃣8️⃣〰️9️⃣➖1️⃣](https://github.com/ExcaliburEX/KeMo#208182091)
+- [2️⃣0️⃣2️⃣1️⃣➖9️⃣➖2️⃣〰️2️⃣0️⃣2️⃣1️⃣➖4️⃣➖2️⃣](https://github.com/ExcaliburEX/KeMo#20922142)
+
+
+# <font face="Times New Roman" color=#0044BB >20.9.2~21.4.2</font>
+> <font face="Noto Serif SC">沉寂了将尽满6个月，终于要开始了。今天更新[Daily-Plan-In-Graduate-Life](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life#2131842)到了最新，完结了[AutoOA](https://github.com/ExcaliburEX/AutomaticOnlineAnswer#-%E5%A3%B0%E6%98%8E)的更新也做出了声明,,又更新了简历，加入了fontawesome图标，接下来要开始：刷题，写论文，准备开题。</font>
+
+---
+
+<font face="Noto Serif SC">1️⃣&emsp;刷题</font>
+<font face="Noto Serif SC">2️⃣&emsp;写论文</font>
+<font face="Noto Serif SC">3️⃣&emsp;准备开题</font>
+
+
+
 
 
 # <font face="Times New Roman" color=#0044BB >20.8.18~20.9.1</font>
