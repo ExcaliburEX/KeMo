@@ -8,9 +8,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ExcaliburEX&repo=KeMo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-</br>
+<br><br><br><br><br>
 
 # <font face="Comic Sans MS" color=#666666>所以你也来看我了?🧐</font>
+
 <br><br>
 
 > <font face="Noto Serif SC" color=#00DDAA>相识 漫长 了解 靠近 倾心 惊讶 窃喜 慌张 担忧 逃避 试探 渴望 纠结 快乐 小心 假装 疑惑 关于 决定 真心 勇气 承认 庆幸 期待 相信 沉迷 疯狂 幻境 极致 依赖 冷淡 哽咽 心酸 错过 自嘲 痛苦 绝境 极端 迷茫 无奈 摧毁 失败 失望 狠心 缓解 否定 浮沉 人海 真实 早睡 祝好 所谓 爱情 皆与此</font>
@@ -19,23 +20,14 @@
 
 # <font face="Comic Sans MS" color=#87CEFA>This is the <font face="Computer Modern" color=#FF0000>Recording File </font>of my life since <font face="Comic Sans MS" color=#77FF00>1969</font>.😗😢</font>
 
-[![HitCount](http://hits.dwyl.com/ExcaliburEX/KeMo.svg)](http://hits.dwyl.com/ExcaliburEX/KeMo)
+<div align="center">
 
-[![GitHub Issues](https://img.shields.io/github/issues/ExcaliburEX/KeMo)](https://github.com/ExcaliburEX/KeMo/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ExcaliburEX/KeMo.svg)](https://github.com/ExcaliburEX/KeMo/pulls)
-![forks](https://img.shields.io/github/forks/ExcaliburEX/KeMo)
-![stars](	https://img.shields.io/github/stars/ExcaliburEX/KeMo)
-![repo size](https://img.shields.io/github/repo-size/ExcaliburEX/KeMo)
-![](https://img.shields.io/badge/Followers-6666-brightgreen)  ![](https://img.shields.io/badge/Rating-10000-orange)  ![](https://img.shields.io/badge/chat-9999-blue)
-![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202020%20Name&labelColor=informational&color=033450) 
-[![Follow us on AngelList](https://img.shields.io/static/v1.svg?label=Follow%20us&message=😇&color=black&logo=angellist&logoColor=white&labelColor=black)](https://angel.co/company/thumbtack) 
-[![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://your-donate-link)
-[![Add to Chrome](https://img.shields.io/static/v1.svg?label=Add%20to&message=Chrome%20🧘)](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) 
-[![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=📧)](mailto:912011727@qq.com) 
-![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational) 
-[![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) 
+[![HitCount](http://hits.dwyl.com/ExcaliburEX/KeMo.svg)](http://hits.dwyl.com/ExcaliburEX/KeMo)[![GitHub Issues](https://img.shields.io/github/issues/ExcaliburEX/KeMo)](https://github.com/ExcaliburEX/KeMo/issues)[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ExcaliburEX/KeMo.svg)](https://github.com/ExcaliburEX/KeMo/pulls)![forks](https://img.shields.io/github/forks/ExcaliburEX/KeMo)![stars](	https://img.shields.io/github/stars/ExcaliburEX/KeMo)![repo size](https://img.shields.io/github/repo-size/ExcaliburEX/KeMo)
+![](https://img.shields.io/badge/Followers-6666-brightgreen)  ![](https://img.shields.io/badge/Rating-10000-orange) ![](https://img.shields.io/badge/chat-9999-blue)
+![Copyright](https://img.shields.io/static/v1.svg?label=My%20cool%20project%20©️%20&message=%202020%20Name&labelColor=informational&color=033450) [![Follow us on AngelList](https://img.shields.io/static/v1.svg?label=Follow%20us&message=😇&color=black&logo=angellist&logoColor=white&labelColor=black)](https://angel.co/company/thumbtack)[![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://your-donate-link)[![Add to Chrome](https://img.shields.io/static/v1.svg?label=Add%20to&message=Chrome%20🧘)](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) [![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=📧)](mailto:912011727@qq.com) 
+![MIT License](https://img.shields.io/static/v1.svg?label=📜%20License&message=MIT&color=informational)[![Listen to the podcast](https://img.shields.io/static/v1.svg?label=%F0%9F%8E%A7%20Listen%20to%20the%20&message=podcast&labelColor=d83a0c&color=381206)](https://dcs.megaphone.fm/KM1909355062.mp3?key=08b1b80a1b7d75383e6da1a741aedfdb) 
 
-
+</div>
 
 # 目录📚
 
