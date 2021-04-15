@@ -54,7 +54,23 @@
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖8️⃣〰️8️⃣➖1️⃣2️⃣](https://github.com/ExcaliburEX/KeMo#208820812)
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖1️⃣3️⃣〰️8️⃣➖1️⃣7️⃣](https://github.com/ExcaliburEX/KeMo#2081320817)
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖1️⃣8️⃣〰️9️⃣➖1️⃣](https://github.com/ExcaliburEX/KeMo#208182091)
-- [2️⃣0️⃣2️⃣1️⃣➖9️⃣➖2️⃣〰️2️⃣0️⃣2️⃣1️⃣➖4️⃣➖2️⃣](https://github.com/ExcaliburEX/KeMo#20922142)
+- [2️⃣0️⃣2️⃣0️⃣➖9️⃣➖2️⃣〰️2️⃣0️⃣2️⃣1️⃣➖4️⃣➖2️⃣](https://github.com/ExcaliburEX/KeMo#20922142)
+- [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖3️⃣〰️➖4️⃣➖1️⃣5️⃣](https://github.com/ExcaliburEX/KeMo#2143415)
+
+# <font face="Times New Roman" color=#0044BB >21.4.3~4.15</font>
+> <font face="Noto Serif SC">又拖了好久才来更新，好刺激，但又很烦躁，这种感觉非常糟糕，一次又一次希望自己记录每天的学习活动，可我都在干什么呢....</font>
+
+---
+
+- [x] <font face="Noto Serif SC">完成了项目的阶段工作，写了一些go的CURD工作</font>
+- [x] <font face="Noto Serif SC">做了一半携程的笔试，什么也没做出来的sqlite，当了逃兵</font>
+- [x] <font face="Noto Serif SC">刷了一题力扣：[124. 二叉树中的最大路径和](https://github.com/ExcaliburEX/AlgorithmDiary#1%EF%B8%8F%E2%83%A3-124--%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C)</font>
+- [ ] <font face="Noto Serif SC">或许我该开始Java的学习了</font>
+- [ ] <font face="Noto Serif SC">明天要开始准备开题报告</font>
+- [ ] <font face="Noto Serif SC">也许也要开始填写科研记录本了</font>
+- [ ] <font face="Noto Serif SC">或许也应该把《1Q84》看完了</font>
+- [ ] <font face="Noto Serif SC">或许之前绕校园跑要继续，俯卧撑也要继续</font>
+- [ ] <font face="Noto Serif SC">实习之路，任重而道远</font>
 
 
 # <font face="Times New Roman" color=#0044BB >20.9.2~21.4.2</font>
