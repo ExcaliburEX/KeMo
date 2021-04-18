@@ -57,14 +57,22 @@
 - [2️⃣0️⃣2️⃣0️⃣➖9️⃣➖2️⃣〰️2️⃣0️⃣2️⃣1️⃣➖4️⃣➖2️⃣](https://github.com/ExcaliburEX/KeMo#20922142)
 - [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖3️⃣〰️➖4️⃣➖1️⃣5️⃣](https://github.com/ExcaliburEX/KeMo#2143415)
 - [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖1️⃣6️⃣](https://github.com/ExcaliburEX/KeMo#21416)
+- [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖1️⃣7️⃣](https://github.com/ExcaliburEX/KeMo#21417)
+# <font face="Times New Roman" color=#0044BB >21.4.17</font>
+> <font face="Noto Serif SC">看了一天的文章吧，毕竟要开题了。</font>
+
+---
+- [x] <font face="Noto Serif SC">《A popularity-aware reconstruction technique in erasure-coded storage systems》</font>
+  - `+` Journal of Parallel and Distributed Computing 146 (2020) 
+  - `+` 提出一种称为POST的重构技术，以减少存储系统在响应用户请求时进行数据重构时的用户等待时间
+  - `+` 糅合了：K-prototype、naive-Bayes-based text analysis algorithms、推荐模型来进行暖数据（介于热数据和冷数据之间）重构
+
 # <font face="Times New Roman" color=#0044BB >21.4.16</font>
 > <font face="Noto Serif SC">由于乌雕云的到访，今天除了搞了一搞阿里的笔试，其他就是撸了好久没撸的局，一撸就是四局，就赢了一局....</font>
 
 ---
 - [x] <font face="Noto Serif SC">阿里的数据研发，一道签到，一道回溯不会做，因为我现在的算法能力约等于0，只能做常人能想出来的题</font>
 - [ ] <font face="Noto Serif SC">开题，开题啊~</font>
-
-
 
 
 # <font face="Times New Roman" color=#0044BB >21.4.3~4.15</font>
