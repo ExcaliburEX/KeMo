@@ -60,10 +60,27 @@
 - [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖1️⃣7️⃣](https://github.com/ExcaliburEX/KeMo#21417)
 - [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖1️⃣8️⃣〰️4️⃣➖2️⃣3️⃣](https://github.com/ExcaliburEX/KeMo#21418423)
 - [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖2️⃣4️⃣〰️4️⃣➖3️⃣0️⃣](https://github.com/ExcaliburEX/KeMo#21424430)
+- [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣〰️5️⃣➖1️⃣1️⃣](https://github.com/ExcaliburEX/KeMo#2151511)
+
+
+# <font face="Times New Roman" color=#0044BB >21.5.1~5.11</font>
+> <font face="Noto Serif SC">CentOS上的ceph集群环境终于算是勉强搭好了，OSD添加总是莫名其妙的出错，而且还要保证虚拟机有两块硬盘，不然会格式化的是系统盘那就又得重来。Grafa的可视化也做好了，那么问题来了，如何更改ceph的内部运行纠删码算法，ceph系统的纠删码就是通过设置erasure-code-profile的参数k与m来调节它本身默认的RS码的设置，然后创建基于纠删码的pool，整个修复过程也都是ceph内部运行的，如何将自己设计的算法应用于ceph集群内部的修复，有点无法深入进去，像个黑盒。询问了清华的大佬没有回信，问了问亮亮大佬说是人家用的是HDFS，那就又要推到重来。，总之到这里又要停滞不前了。</font>
+
+
+
+- [x] <font face="Noto Serif SC">刷题！</font>
+  - [x] [2021-05-03：1️⃣ 98. 验证二叉搜索树](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-03)
+  - [x] [2021-05-05：1️⃣ 701. 二叉搜索树中的插入操作](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-05)
+  - [x] [2021-05-06：1️⃣ 83. 删除排序链表中的重复元素](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-06)
+  - [x] [2021-05-07：1️⃣ 82. 删除排序链表中的重复元素 II](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-07)
+  - [x] [2021-05-08：1️⃣ 206. 反转链表](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-08)
+
+
+
 
 
 # <font face="Times New Roman" color=#0044BB >21.4.24~4.30</font>
-> <font face="Noto Serif SC">发现大部分论文的实验都是运行在ceph系统上，所以这几天都是在寻找实验的方法，看到一篇清华的论文，辗转联系到已经毕业的一作，要到了java代码，但是实验是改写成C跑在ceph上的，不知道怎么实现。。。发现了一个改进ceph纠删码性能的小组作业，给出了很多实验细节，看到他们记录中提到感谢实验室学长徐亮亮提供的物理机，巧了，最近一直在看他发表的几篇论文，真的这么巧嘛，果然还是研究水平高导致了更多的展现率。后记就是，因为要参加婚礼，提前回了老家，只能通过VPN连接服务器操作，这速度，无论是SSH还是实际操作，每个命令等待时间恐怕都可以喝杯咖啡。。以至于29号从早到晚，四台Ubuntu从早到晚，搭了一天，总是到ceph -s报wHEALTH-WARN，我只能告诉自己Ubuntu不行，还是改CentOS吧。晚上花了点时间跟她视频的间隙淦完了开题，只能说很强。</font>
+> <font face="Noto Serif SC">发现大部分论文的实验都是运行在ceph系统上，所以这几天都是在寻找实验的方法，看到一篇清华的论文，辗转联系到已经毕业的一作，要到了java代码，但是实验是改写成C跑在ceph上的，不知道怎么实现。。。发现了一个改进ceph纠删码性能的小组作业，给出了很多实验细节，看到他们记录中提到感谢实验室学长徐亮亮提供的物理机，巧了，最近一直在看他发表的几篇论文，真的这么巧嘛，果然还是研究水平高导致了更多的展现率。后记就是，因为要参加婚礼，提前回了老家，只能通过VPN连接服务器操作，这速度，无论是SSH还是实际操作，每个命令等待时间恐怕都可以喝杯咖啡。。以至于29号从早到晚，四台Ubuntu从早到晚，搭了一天，总是到ceph -s报HEALTH-WARN，我只能告诉自己Ubuntu不行，还是改CentOS吧。晚上花了点时间跟她视频的间隙淦完了开题，只能说很强。</font>
 
 - [x] <font face="Noto Serif SC">刷题后面几天还没跟上，还要继续努力！</font>
 - [x] <font face="Noto Serif SC">搭建论文的实验环境</font>
