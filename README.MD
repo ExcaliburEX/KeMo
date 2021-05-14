@@ -55,18 +55,28 @@
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖1️⃣3️⃣〰️8️⃣➖1️⃣7️⃣](https://github.com/ExcaliburEX/KeMo#2081320817)
 - [2️⃣0️⃣2️⃣0️⃣➖8️⃣➖1️⃣8️⃣〰️9️⃣➖1️⃣](https://github.com/ExcaliburEX/KeMo#208182091)
 - [2️⃣0️⃣2️⃣0️⃣➖9️⃣➖2️⃣〰️2️⃣0️⃣2️⃣1️⃣➖4️⃣➖2️⃣](https://github.com/ExcaliburEX/KeMo#20922142)
-- [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖3️⃣〰️➖4️⃣➖1️⃣5️⃣](https://github.com/ExcaliburEX/KeMo#2143415)
+- [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖3️⃣〰️4️⃣➖1️⃣5️⃣](https://github.com/ExcaliburEX/KeMo#2143415)
 - [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖1️⃣6️⃣](https://github.com/ExcaliburEX/KeMo#21416)
 - [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖1️⃣7️⃣](https://github.com/ExcaliburEX/KeMo#21417)
 - [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖1️⃣8️⃣〰️4️⃣➖2️⃣3️⃣](https://github.com/ExcaliburEX/KeMo#21418423)
 - [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖2️⃣4️⃣〰️4️⃣➖3️⃣0️⃣](https://github.com/ExcaliburEX/KeMo#21424430)
 - [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣〰️5️⃣➖1️⃣1️⃣](https://github.com/ExcaliburEX/KeMo#2151511)
+- [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣2️⃣〰️5️⃣➖1️⃣3️⃣](https://github.com/ExcaliburEX/KeMo#2151213)
 
+# <font face="Times New Roman" color=#0044BB >21.5.12~13</font>
+> <font face="Noto Serif SC">12号组会，即兴的一场辩论赛，关于「好马该不该吃回头草」，我们有了好马周遭吃，研究调查说等观点，有裂缝说对磨合修复说，被刺破缝隙说驳回，我们还有论文横向吸取与纵向工作的针锋相对...此后是关于网络空间地图的讨论以及其实验平台PlanetLab的好奇与不知怎用，各自汇报了下情况，在阅读论文到构思下一个点不等，我还是困惑于实验，建议是重构ceph关于纠删码模块的插件或者构建一套自己的实验环境，剩下的就是关于指静脉仪的图像识别项目的蠢蠢欲动。</br></br>13号，结束了《An Adaptive Erasure-Coded Storage Scheme with an Efficient Code-Switching Algorithm》的阅读，开始了另一篇IEEE ACCESS上的类似的动态切换修复编码的文章《A New Adaptive Coding Selection Method for Distributed Storage Systems》的阅读，本文的实验建立在HDFS上面，使用的编码是RS与LRC之间的切换，依旧好像还是难以复现。另外听bj说的之前利用ML优化RAFT选举过程参数的论文已于一年前实现，这是一篇来自于韩国梨花女子大学的文章。此外顺便在Zotero上建立的文献共享群组，这样可以互相分享正在读的文献以及实时获取相应的笔记信息了，采用了坚果云备份后更加稳定，之后换电脑也更方便。</font>
+
+- [x] <font face="Noto Serif SC">刷题！</font>
+  - [x] [2021-05-12：1️⃣ 92. 反转链表 II](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-12)
+  - [x] [2021-05-13：1️⃣ 21. 合并两个有序链表](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-13)
+- [x] <font face="Noto Serif SC">论文</font>
+  - [x] 结束《An Adaptive Erasure-Coded Storage Scheme with an Efficient Code-Switching Algorithm》 ，B
+  - [x] 开始《A New Adaptive Coding Selection Method for Distributed Storage Systems》 
+    - `+` 热数据采用三份复制，暖数据采用LRC，冷数据采用RS
+    - `+` 实验运行在HDFS上
 
 # <font face="Times New Roman" color=#0044BB >21.5.1~5.11</font>
 > <font face="Noto Serif SC">CentOS上的ceph集群环境终于算是勉强搭好了，OSD添加总是莫名其妙的出错，而且还要保证虚拟机有两块硬盘，不然会格式化的是系统盘那就又得重来。Grafa的可视化也做好了，那么问题来了，如何更改ceph的内部运行纠删码算法，ceph系统的纠删码就是通过设置erasure-code-profile的参数k与m来调节它本身默认的RS码的设置，然后创建基于纠删码的pool，整个修复过程也都是ceph内部运行的，如何将自己设计的算法应用于ceph集群内部的修复，有点无法深入进去，像个黑盒。询问了清华的大佬没有回信，问了问亮亮大佬说是人家用的是HDFS，那就又要推到重来。，总之到这里又要停滞不前了。</font>
-
-
 
 - [x] <font face="Noto Serif SC">刷题！</font>
   - [x] [2021-05-03：1️⃣ 98. 验证二叉搜索树](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-03)
