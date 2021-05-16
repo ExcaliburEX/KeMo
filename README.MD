@@ -62,6 +62,11 @@
 - [2️⃣0️⃣2️⃣1️⃣➖4️⃣➖2️⃣4️⃣〰️4️⃣➖3️⃣0️⃣](https://github.com/ExcaliburEX/KeMo#21424430)
 - [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣〰️5️⃣➖1️⃣1️⃣](https://github.com/ExcaliburEX/KeMo#2151511)
 - [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣2️⃣〰️5️⃣➖1️⃣3️⃣](https://github.com/ExcaliburEX/KeMo#2151213)
+- [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣4️⃣〰️5️⃣➖1️⃣6️⃣](https://github.com/ExcaliburEX/KeMo#2151416)
+
+# <font face="Times New Roman" color=#0044BB >21.5.14~16</font>
+> <font face="Noto Serif SC">停滞不前，总归是有点懈怠，再加之周末等等。没什么想法，因为之前关于动态变换修复编码的论文都是来自于16年的一篇HACFS的论文的想法，作者直接能在github上搜到他的名字，因为他的名字就是他的ID，发出的邮件都没有回复。也发现了《An Adaptive Erasure-Coded Storage Scheme with an Efficient Code-Switching Algorithm》的中文版，原来真的可以这样操作，一模一样翻译一下，重新再发表一篇。真的有些不明白，这些论文的实验无论在ceph还是HDFS上，一个都没有开源，网上也搜索不到任何相关实验，他们是怎么一步一步做起来的，审稿人又怎么相信他们真的做了实验呢？我现在只想自己用py自己写个实验，实在不知道怎么在这两个开源系统上进行实验。</font>
+
 
 # <font face="Times New Roman" color=#0044BB >21.5.12~13</font>
 > <font face="Noto Serif SC">12号组会，即兴的一场辩论赛，关于「好马该不该吃回头草」，我们有了好马周遭吃，研究调查说等观点，有裂缝说对磨合修复说，被刺破缝隙说驳回，我们还有论文横向吸取与纵向工作的针锋相对...此后是关于网络空间地图的讨论以及其实验平台PlanetLab的好奇与不知怎用，各自汇报了下情况，在阅读论文到构思下一个点不等，我还是困惑于实验，建议是重构ceph关于纠删码模块的插件或者构建一套自己的实验环境，剩下的就是关于指静脉仪的图像识别项目的蠢蠢欲动。</br></br>13号，结束了《An Adaptive Erasure-Coded Storage Scheme with an Efficient Code-Switching Algorithm》的阅读，开始了另一篇IEEE ACCESS上的类似的动态切换修复编码的文章《A New Adaptive Coding Selection Method for Distributed Storage Systems》的阅读，本文的实验建立在HDFS上面，使用的编码是RS与LRC之间的切换，依旧好像还是难以复现。另外听bj说的之前利用ML优化RAFT选举过程参数的论文已于一年前实现，这是一篇来自于韩国梨花女子大学的文章。此外顺便在Zotero上建立的文献共享群组，这样可以互相分享正在读的文献以及实时获取相应的笔记信息了，采用了坚果云备份后更加稳定，之后换电脑也更方便。</font>
