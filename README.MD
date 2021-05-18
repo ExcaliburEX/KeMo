@@ -67,7 +67,7 @@
 
 
 # <font face="Times New Roman" color=#0044BB >21.5.17~18</font>
-> <font face="Noto Serif SC">17号，这一天白天主要实现了在线答题软件的同时在线人数功能的实现，主要就是启动软件的瞬间就启动一个线程每隔三秒循环不断访问MySQl，统计提前建好的表中OnlineState值为T的个数，若改变就进行展示，当用户点击登录时就基于用户名找到相应的数据行，把状态值改为T，用户退出就基于用户名将OnlineState值改为F。晚上，收到了HACFS（基于RS码与LRC码以及HDFS可变修复策略系统）的作者的回信，代码属于IBM研究院无法公开，推荐我去看HDFS源码。</br></br>18号，偶尔中发现了一个来自于港城大的实验室：[Applied Distributed Systems Lab](http://adslab.cse.cuhk.edu.hk/)，之前就看果他们实验室的一篇论文，研究的是分布式存储系统的可靠性，自己用Python做了一个simulator来进行仿真，而且少见的开源了代码，今天发现他们实验室所有的论文都展示在主页且几乎每篇论文都有开源实现，亦或是放在GIthub上，亦或是放在实验室主页上，难怪在Github上直接搜是搜不到的。其中当然也有我所需要相关的基于HDFS融合自己算法的作为插件的实现，接下来要细细研究、</font>
+> <font face="Noto Serif SC">17号，这一天白天主要实现了在线答题软件的同时在线人数功能的实现，主要就是启动软件的瞬间就启动一个线程每隔三秒循环不断访问MySQL，统计提前建好的表中OnlineState值为T的个数，若改变就进行展示，当用户点击登录时就基于用户名找到相应的数据行，把状态值改为T，用户退出就基于用户名将OnlineState值改为F。晚上，收到了HACFS（基于RS码与LRC码以及HDFS可变修复策略系统）的作者的回信，代码属于IBM研究院无法公开，推荐我去看HDFS源码。</br></br>18号，偶尔中发现了一个来自于港城大的实验室：[Applied Distributed Systems Lab](http://adslab.cse.cuhk.edu.hk/)，之前就看过他们实验室的一篇论文，研究的是分布式存储系统的可靠性，自己用Python做了一个simulator来进行仿真，而且少见的开源了代码，今天发现他们实验室所有的论文都展示在主页且几乎每篇论文都有开源实现，亦或是放在Github上，亦或是放在实验室主页上，难怪在Github上直接搜是搜不到的。其中当然也有我所需要相关的基于HDFS融合自己算法的作为插件的实现，接下来要细细研究。</font>
 
 <table>
 <tr>
