@@ -63,6 +63,40 @@
 - [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣〰️5️⃣➖1️⃣1️⃣](https://github.com/ExcaliburEX/KeMo#2151511)
 - [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣2️⃣〰️5️⃣➖1️⃣3️⃣](https://github.com/ExcaliburEX/KeMo#2151213)
 - [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣4️⃣〰️5️⃣➖1️⃣6️⃣](https://github.com/ExcaliburEX/KeMo#2151416)
+- [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣7️⃣〰️5️⃣➖1️⃣8️⃣](https://github.com/ExcaliburEX/KeMo#2151718)
+
+
+# <font face="Times New Roman" color=#0044BB >21.5.17~18</font>
+> <font face="Noto Serif SC">17号，这一天白天主要实现了在线答题软件的同时在线人数功能的实现，主要就是启动软件的瞬间就启动一个线程每隔三秒循环不断访问MySQl，统计提前建好的表中OnlineState值为T的个数，若改变就进行展示，当用户点击登录时就基于用户名找到相应的数据行，把状态值改为T，用户退出就基于用户名将OnlineState值改为F。晚上，收到了HACFS（基于RS码与LRC码以及HDFS可变修复策略系统）的作者的回信，代码属于IBM研究院无法公开，推荐我去看HDFS源码。</br></br>18号，偶尔中发现了一个来自于港城大的实验室：[Applied Distributed Systems Lab](http://adslab.cse.cuhk.edu.hk/)，之前就看果他们实验室的一篇论文，研究的是分布式存储系统的可靠性，自己用Python做了一个simulator来进行仿真，而且少见的开源了代码，今天发现他们实验室所有的论文都展示在主页且几乎每篇论文都有开源实现，亦或是放在GIthub上，亦或是放在实验室主页上，难怪在Github上直接搜是搜不到的。其中当然也有我所需要相关的基于HDFS融合自己算法的作为插件的实现，接下来要细细研究、</font>
+
+<table>
+<tr>
+<th align = "center" colspan="1">
+<div style="text-align: center;">
+<h4 align="center">「当前文献库自我归类的标签：」</h4>
+</div></th>
+</tr>
+<tr>
+<td align = "center"><img src="https://i.loli.net/2021/05/18/cHBJ1qvyYLngjeR.png"></td>
+</tr>
+</table>
+
+
+- 目前该实验室值得阅读且有开源实现的论文：
+  - [ ] 2017，《Repair Pipelining for Erasure-Coded Storage》
+    - `+` 基于HDFS实现：[ecpipe](http://adslab.cse.cuhk.edu.hk/software/ecpipe/)
+  - [ ] 2018，《A Simulation Analysis of Redundancy and Reliability in Primary Storage Deduplication》
+    - `+` Python2实现：[SIMD](https://github.com/fomy/simd)
+  - [ ] 2019，《Fast Predictive Repair in Erasure-Coded Storage》
+    - `+` 基于HDFS插件实现：[fastpr](http://adslab.cse.cuhk.edu.hk/software/fastpr/)
+  - [ ] 2019，《OpenEC: Toward Uniﬁed and Conﬁgurable Erasure Coding Management in Distributed Storage Systems》
+    - `+` 基于HDFS-RAID实现：[OpenEC](http://adslab.cse.cuhk.edu.hk/software/openec/)
+  - [ ] 2020，《On the Optimal Repair-Scaling Trade-off in Locally Repairable Codes》
+    - `+` C++实现：[infocom20_lrctradeoff](https://github.com/kobesi/infocom20_lrctradeoff)
+
+- [x] <font face="Noto Serif SC">刷题！</font>
+  - [x] [2021-05-17：1️⃣ 86. 分隔链表](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-17)
+  - [x] [2021-05-18：1️⃣ 148. 排序链表](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-18)
 
 # <font face="Times New Roman" color=#0044BB >21.5.14~16</font>
 > <font face="Noto Serif SC">停滞不前，总归是有点懈怠，再加之周末等等。没什么想法，因为之前关于动态变换修复编码的论文都是来自于16年的一篇HACFS的论文的想法，作者直接能在github上搜到他的名字，因为他的名字就是他的ID，发出的邮件都没有回复。也发现了《An Adaptive Erasure-Coded Storage Scheme with an Efficient Code-Switching Algorithm》的中文版，原来真的可以这样操作，一模一样翻译一下，重新再发表一篇。真的有些不明白，这些论文的实验无论在ceph还是HDFS上，一个都没有开源，网上也搜索不到任何相关实验，他们是怎么一步一步做起来的，审稿人又怎么相信他们真的做了实验呢？我现在只想自己用py自己写个实验，实在不知道怎么在这两个开源系统上进行实验。</font>
