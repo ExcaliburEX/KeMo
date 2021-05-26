@@ -68,7 +68,7 @@
 - [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖2️⃣3️⃣〰️5️⃣➖2️⃣5️⃣](https://github.com/ExcaliburEX/KeMo#2152325)
 
 # <font face="Times New Roman" color=#0044BB >21.5.23~25</font>
-> <font face="Noto Serif SC">23号，大概是同等学力监考一天，跟护理学院的同学聊了她所经历的汶川地震与护士生活。</br></br>24号，跟言的师兄师弟在星海来了一场酣畅淋漓的羽球大战，我差点以为都是大佬，亚历山大。此外研究了一下指静脉找到的python代码和C代码，Python代码一般实现是基于神经网络或者数学方法，但是深度学习方法的数据集申请不到，数学方法没有python实现，无法复现。</br></br>25号，编译了一会儿C代码，但是总是出现一堆bug，win上显示指针有问题，Ubuntu上总是报undefined referenced的错误，还是联合编译的问题，或许还有c标准的问题，因为有些库函数无法识别，配置了一会儿RTX 2070的服务器，想要使用它远程jupyter服务，但是只要重启就黑屏只能还原快照，多次重启再还原快照就再也无法开机，只能重启ESXi主机。本来是不用重启就可以一直用的，但是欠打的是更新了一下源，导致显卡驱动版本跟支持的版本不一致无法调用，那这就是个普通的Ubuntu，一点用没有，只能重启，一旦重启就没，就很淦。继续《Fast Predictive Repair in Erasure-Coded Storage》，这是一篇关于纠删码预测修复的文章，主要目标就是预测即将失效的节点即STF node(Soon-To-Fail node)，然后进行数据迁移与重建。实验复现有具体的文档：[2021-05-26-fastpr_readme.pdf](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2021-05-26-fastpr_readme.pdf)，感觉可以改一改脚本的参数实现自己的新idea，最新的[基于幕布的论文撰写技术素材](https://share.mubu.com/doc/BxH3uWnm_i)。</font>
+> <font face="Noto Serif SC">23号，大概是同等学力监考一天，跟护理学院的同学聊了她所经历的汶川地震与护士生活。</br></br>24号，跟言的师兄师弟在星海来了一场酣畅淋漓的羽球大战，我差点以为都是大佬，亚历山大。此外研究了一下指静脉找到的`Python`代码：[FingerVeinApi](https://github.com/lllllliuxt/FingerVeinApi)、[hardnet_triplet](https://github.com/wdongdongde/hardnet_triplet-for-Finger-Vein-Recognition)和`C`代码：[Finger](https://github.com/Daiguomeng/Finger)，`Python`代码一般实现是基于神经网络或者数学方法，但是深度学习方法的数据集申请不到，数学方法没有`Python`实现，无法复现。</br></br>25号，编译了一会儿C代码，但是总是出现一堆bug，win上显示指针有问题，Ubuntu上总是报undefined referenced的错误，还是联合编译的问题，或许还有c标准的问题，因为有些库函数无法识别，配置了一会儿RTX 2070的服务器，想要使用它远程jupyter服务，但是只要重启就黑屏只能还原快照，多次重启再还原快照就再也无法开机，只能重启ESXi主机。本来是不用重启就可以一直用的，但是欠打的是更新了一下源，导致显卡驱动版本跟支持的版本不一致无法调用，那这就是个普通的Ubuntu，一点用没有，只能重启，一旦重启就没，就很淦。继续《Fast Predictive Repair in Erasure-Coded Storage》，这是一篇关于纠删码预测修复的文章，主要目标就是预测即将失效的节点即STF node(Soon-To-Fail node)，然后进行数据迁移与重建。实验复现有具体的文档：[2021-05-26-fastpr_readme.pdf](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2021-05-26-fastpr_readme.pdf)，感觉可以改一改脚本的参数实现自己的新idea，最新的[基于幕布的论文撰写技术素材](https://share.mubu.com/doc/BxH3uWnm_i)。</font>
 
 - [x] <font face="Noto Serif SC">刷题！</font>
   - [x] [2021-05-19~26：1️⃣143. 排序链表](https://github.com/ExcaliburEX/AlgorithmDiary#1%EF%B8%8F%E2%83%A3-143-%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8)
@@ -79,7 +79,7 @@
 
 
 # <font face="Times New Roman" color=#0044BB >21.5.19~22</font>
-> <font face="Noto Serif SC">19号，组会。bj利用幕布分享了幕布以及zotero的使用以及几篇论文和情感状态的分享，hh说像是我带出的徒弟。我分享了我关于ADSLab实验室的发现，剩下的就是两位学姐的毕业预答辩。</br></br>20号，应该是仔细研究了一下bj找到的MATLAB版指静脉代码，基本研究通了，然后告诉我是用c实现。</br></br>21号，研究性学习，女友回来了。</br></br>22号，由于仅有一个的同住大学同学邀请，与昆山舍友一起同游吴中永旺，共品「江边城外」，共赏「速9之人体描边奔向太空特别篇」。</font>
+> <font face="Noto Serif SC">19号，组会。众人各自的分享，**bj**利用幕布分享了幕布以及`zotero`的使用以及几篇论文和情感状态的分享，**hh**说像是我带出的徒弟。我分享了我关于`ADSLab`实验室的发现，剩下的就是两位学姐的毕业预答辩。<br><br>20号，应该是仔细研究了一下**bj**找到的`MATLAB`版**指静脉代码**，基本研究通了，然后告诉我是用`C`实现。<br><br>21号，研究性学习，某人回来了。<br><br>22号，由于仅有一个的同住苏州的大学同学邀请，与昆山舍友一起同游吴中永旺，共品「江边城外」，共赏「速9之人体描边奔向太空特别篇」，主要聊了银行工作这个职业的各种具体情况。吃饭间听闻袁爷爷去世的真新闻，缅怀之余吃完了碗中的饭粒，电影结束看到了大连宝马事件，这一天恐怕太黑暗了。</font>
 
 
 
