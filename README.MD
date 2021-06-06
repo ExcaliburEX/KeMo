@@ -66,6 +66,15 @@
 - [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣7️⃣〰️5️⃣➖1️⃣8️⃣](https://github.com/ExcaliburEX/KeMo#2151718)
 - [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖1️⃣9️⃣〰️5️⃣➖2️⃣2️⃣](https://github.com/ExcaliburEX/KeMo#2151922)
 - [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖2️⃣3️⃣〰️5️⃣➖2️⃣5️⃣](https://github.com/ExcaliburEX/KeMo#2152325)
+- [2️⃣0️⃣2️⃣1️⃣➖5️⃣➖2️⃣6️⃣〰️6️⃣➖5️⃣](https://github.com/ExcaliburEX/KeMo#2152665)
+
+# <font face="Times New Roman" color=#0044BB >21.5.26~6.5</font>
+> <font face="Noto Serif SC">26号，组会日。继续看《Fast Predictive Repair in Erasure-Coded Storage》数学理论部分，论证了最小二分匹配。翔哥分享了关于利用bootstrap搭建的节点广域与局域的连接。宝骏分享了关于联邦学习的阅读。慧慧分享了自己论文根据审稿人意见修订的新实验思路，重新定义吞吐量。我分享了关于指静脉算法的实现以及论文的阅读，其中提到了关于基金号的支撑以及《网络与信息安全学报》与我们实验室的关系。浩浩说是还在继续阅读论文。张维娜关于论文的阅读。邱珍关于论文的现场疑问解答。小治关于论文以及考公的分享。旺旺关于空间地图论文的有一次分享。婷婷学姐关于发论文的感想，原来就是我去年夏天提到的，不要想，现在就动手去写去敲代码，写着写着就会有灵感了。剩下的就是与老板讨论关于指静脉仪商用的事情了，已经有产品型号了。。<br><br>27号，这一天我主要还是优化了一下指静脉的MATLAB算法实现。基本上在win上运行已经不成问题了，识别精度识别速度在显卡的加持上都可以接受。<br><br>28-29，摸鱼。<br><br>30号，继续研读《一种混合局部恢复码及 Hitchhiker 码的存储策略》，思考是否可以将编码切换与预测修复结合。<br><br>31号，想在fastpr的源代码中加入接口。开始了论文的撰写，研究了很多相关论文的目录。挑选了几个比较具有代表新的论文目录，并进行杂糅成我的目录。<br><br>6.1，继续研究fastPR的代码，感觉有几个修复入口，fastpr，Migration以及random修复，或许我还可以再加入一个修复方案。开始准备修改代码，但是想着还是先编译一下他们的源码，运行看看效果。Hadoop始终编译不成功，明天再看看具体情况.<br><br>2号，组会日。翔哥介绍了下自己关于IPFS节点连接的研究以及一个TestGround平台搭建的情况。剩下每个人大概地介绍了下各自的最近工作，倒也没什么特别的就是了。靖靖介绍了下新闻搜索引擎，小治介绍了最近看的论文...<br><br>3-4号，摸鱼。<br><br>5号，开始改变策略，想一想即使Hadoop成功搭建出来了，后续还不知道出现多少BUG，而且写c也很麻烦，即使有想法也无法实现。决定还是开始使用Python做一些模拟类别的文章，我想这样还是走了我之前老路的一些想法。</font>
+- [x] <font face="Noto Serif SC">刷题！</font>
+  - [x] [2021-05-31：1️⃣ 141. 环形链表](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-31)
+  - [x] [2021-06-01：1️⃣ 142. 环形链表 II](https://github.com/ExcaliburEX/AlgorithmDiary#2021-06-01)
+
+
 
 # <font face="Times New Roman" color=#0044BB >21.5.23~25</font>
 > <font face="Noto Serif SC">23号，大概是同等学力监考一天，跟护理学院的同学聊了她所经历的汶川地震与护士生活。</br></br>24号，跟言的师兄师弟在星海来了一场酣畅淋漓的羽球大战，我差点以为都是大佬，亚历山大。此外研究了一下指静脉找到的`Python`代码：[FingerVeinApi](https://github.com/lllllliuxt/FingerVeinApi)、[hardnet_triplet](https://github.com/wdongdongde/hardnet_triplet-for-Finger-Vein-Recognition)和`C`代码：[Finger](https://github.com/Daiguomeng/Finger)，`Python`代码一般实现是基于神经网络或者数学方法，但是深度学习方法的数据集申请不到，数学方法没有`Python`实现，无法复现。</br></br>25号，编译了一会儿C代码，但是总是出现一堆bug，win上显示指针有问题，Ubuntu上总是报undefined referenced的错误，还是联合编译的问题，或许还有c标准的问题，因为有些库函数无法识别，配置了一会儿RTX 2070的服务器，想要使用它远程jupyter服务，但是只要重启就黑屏只能还原快照，多次重启再还原快照就再也无法开机，只能重启ESXi主机。本来是不用重启就可以一直用的，但是欠打的是更新了一下源，导致显卡驱动版本跟支持的版本不一致无法调用，那这就是个普通的Ubuntu，一点用没有，只能重启，一旦重启就没，就很淦。继续《Fast Predictive Repair in Erasure-Coded Storage》，这是一篇关于纠删码预测修复的文章，主要目标就是预测即将失效的节点即STF node(Soon-To-Fail node)，然后进行数据迁移与重建。实验复现有具体的文档：[2021-05-26-fastpr_readme.pdf](https://blog-1259799643.cos.ap-shanghai.myqcloud.com/2021-05-26-fastpr_readme.pdf)，感觉可以改一改脚本的参数实现自己的新idea，最新的[基于幕布的论文撰写技术素材](https://share.mubu.com/doc/BxH3uWnm_i)。</font>
