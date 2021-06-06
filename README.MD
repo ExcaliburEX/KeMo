@@ -73,6 +73,8 @@
 - [x] <font face="Noto Serif SC">刷题！</font>
   - [x] [2021-05-31：1️⃣ 141. 环形链表](https://github.com/ExcaliburEX/AlgorithmDiary#2021-05-31)
   - [x] [2021-06-01：1️⃣ 142. 环形链表 II](https://github.com/ExcaliburEX/AlgorithmDiary#2021-06-01)
+  - [x] [2021-06-03：1️⃣ 234. 回文链表](https://github.com/ExcaliburEX/AlgorithmDiary#2021-06-03)
+  - [x] [2021-06-06：1️⃣ 138. 复制带随机指针的链表](https://github.com/ExcaliburEX/AlgorithmDiary#2021-06-06)
 
 
 
